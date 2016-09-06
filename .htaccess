@@ -1,8 +1,6 @@
 # Enable mod_rewrite, start rewrite engine 
 RewriteEngine on
 
-RewriteBase /
-
 # Block source code viewing
 RewriteRule "(^|/)(CVS|\.svn|\.git)/" - [F]
 
