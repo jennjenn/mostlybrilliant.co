@@ -82,9 +82,10 @@
         <p>If you have a short term or interim project, let me know! Subject to availability, I am free for consultation. No commitments, no sales &mdash; just straightforward advice when and where you need it. When these buttons are active, you'll hear from me within 24 hours (usually quicker) and we'll get your urgent request underway!</p>
 
       <form action="/success?product=halfday" method="POST" class="inline-button">
+      <input type="hidden" name="product-id" value="halfday" />
       <script
         src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-        data-key="pk_fU3W7AlFlEEupRqXmPWAZbharLLph"
+        data-key="REDACTED"
         data-amount="65000"
         data-name="Mostly Brilliant"
         data-description="Half-Day On-Demand"
@@ -97,6 +98,7 @@
     </form>
 
     <form action="/success?product=fullday" method="POST" class="inline-button">
+    <input type="hidden" name="product-id" value="fullday" />
       <script
         src="https://checkout.stripe.com/checkout.js" class="stripe-button"
         data-key="pk_fU3W7AlFlEEupRqXmPWAZbharLLph"
