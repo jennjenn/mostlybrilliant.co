@@ -1,42 +1,60 @@
 body{
-	padding-top: 50px;
-	padding-bottom: 20px;
+	padding: 20px 0;
 	background: #f9f9f9;
 	font-size: 1.8em;
 	font-family: 'Open Sans', sans-serif;
 }
 
 a{
-	color: #33B0D7;
+	color: #23B5E9;
 }
 
 h1, h2{
-	color: #009DCE;
-	font-family: 'Spinnaker', sans-serif;
+	color: #003F62;
+	font-family: 'Hammersmith One', sans-serif;
 	text-transform: uppercase;
-	font-weight: bold;
 }
 
 h1{
 	font-size: 2.5em;
 	text-align: center;
-	padding-bottom: 4px;
-	margin-bottom: 20px;
-	border-bottom: 1px solid #009DCE;
+	padding-bottom: 15px;
+	margin: 0 auto 25px;
+	border-bottom: 1px solid #00AAD3;
+}
+
+#logo img{
+	height: 75px;
 }
 
 h2{
 	margin-bottom: 3px;
-	font-size: 1.5em;
-	margin-top: 24px;
+	font-size: 1.8em;
+	margin-top: 34px;
+}
+
+h3{
+	color: #00A9BB;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 22px;
+    margin-bottom: 4px;
 }
 
 .container{
 	max-width: 800px;
 }
 
-p{
+p, ul, label{
 	color: #898989;
+}
+
+p{
+	margin: 0 0 1em;
+}
+
+ul{
+	margin-left: -20px;
 }
 
 .highlight{
@@ -47,40 +65,40 @@ p{
 	margin-right: 2px;
 }
 
-.fa-lightbulb-o{
-	font-size: 1.45em;
-	position: relative;
-	top: 5px;
-	background: linear-gradient(225deg, #fffdaf, #eeff00, #ffe300);
-	background-size: 600% 600%;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-
-	-webkit-animation: AnimationName 6s ease infinite;
-	-moz-animation: AnimationName 6s ease infinite;
-	animation: AnimationName 6s ease infinite;
-
-	@-webkit-keyframes AnimationName {
-	    0%{background-position:93% 0%}
-	    50%{background-position:0% 100%}
-	    100%{background-position:93% 0%}
-	}
-	@-moz-keyframes AnimationName {
-	    0%{background-position:93% 0%}
-	    50%{background-position:0% 100%}
-	    100%{background-position:93% 0%}
-	}
-	@keyframes AnimationName { 
-	    0%{background-position:93% 0%}
-	    50%{background-position:0% 100%}
-	    100%{background-position:93% 0%}
-	}
-}
-
 .footer-meta{
 	border-top: 1px solid #009DCE;
 	padding-top: 8px;
     margin: 40px 0 20px;
 	text-align: center;
 	font-size: 0.8em;
+}
+
+.pricing{
+	color: #AEBBBD;
+	margin-bottom: 8px;
+    display: block;
+}
+
+.inline-button{
+	display: inline-block;
+	margin: -10px 10px 20px 0;
+}
+
+#mc_embed_signup{
+	form{
+		text-align: left !important;
+		margin-top: -10px;
+
+		label{
+			font-family: 'Open Sans', sans-serif;
+			display: inline-block;
+			margin-right: 0.5em;
+		}	
+
+		.button{
+			font-family: 'Open Sans', sans-serif;
+			text-transform: uppercase;
+			background: #00A9BB;
+		}
+	}
 }
