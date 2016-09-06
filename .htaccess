@@ -1,5 +1,4 @@
 # Enable mod_rewrite, start rewrite engine 
-Options +FollowSymLinks
 RewriteEngine on
 
 RewriteBase /
@@ -8,4 +7,3 @@ RewriteBase /
 RewriteRule "(^|/)(CVS|\.svn|\.git)/" - [F]
 
 RewriteRule ^success(/)*$ success.php [NC]
-RewriteRule ^admin(/)*$ admin/index.php [NC,L]
