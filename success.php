@@ -22,6 +22,41 @@
         <![endif]-->
       <!-- ngIf: app.state -->
 
+<?php
+require_once('vendor/stripe/init.php'); 
+
+\Stripe\Stripe::setApiKey("sk_test_BQokikJOvBiI2HlWgH4olfQ2");
+\Stripe\Stripe::$apiBase = "https://api-tls12.stripe.com";
+try {
+  \Stripe\Charge::all();
+  echo "TLS 1.2 supported, no action required.";
+} catch (\Stripe\Error\ApiConnection $e) {
+  echo "TLS 1.2 is not supported. You will need to upgrade your integration.";
+}
+
+$stripe = array(
+  "secret_key"      => "w30jc2AMOXgX6PeXnjjV03tsWum4Iw29",
+  "publishable_key" => "pk_y7HMZvTles9diJRcR6ca7zhzsaQd8"
+);
+
+\Stripe\Stripe::setApiKey($stripe['secret_key']);
+
+$token  = $_POST['stripeToken'];
+$email  = $_POST['stripeEmail'];
+
+  $customer = \Stripe\Customer::create(array(
+      'email' => $email,
+      'source'  => $token
+  ));
+
+  $charge = \Stripe\Charge::create(array(
+      'customer' => $customer->id,
+      'amount'   => 5000,
+      'currency' => 'usd'
+  ));
+
+?>
+
 <div class="container">
   <div class="row">
     <div class="col-xs-12">
