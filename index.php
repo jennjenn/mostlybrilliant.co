@@ -58,15 +58,15 @@
       <h2>Services</h2>
 
       <h3>Product & UX Audit</h3>
-      <span class="pricing">$500. (Average 2 business-day turnaround.)</span>
-      <p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of up to 5 screens of your product with a focus on user experience and usability. From this, you'll get a report of at least 15 opportunities for quick improvement and optimization to give your users the best experience possible leading to increased conversion and retention.</p>
+      <span class="pricing">$1000. (Average 2 business-day turnaround.)</span>
+      <p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of your product with a focus on user experience and usability. From this, you'll get a report of at least 15 opportunities for improvement and optimization to give your users the best experience possible leading to increased conversion and retention.</p>
 
       <form action="/success" method="POST" class="inline-button">
       <input type="hidden" name="product-id" value="audit" />
         <script
           src="https://checkout.stripe.com/checkout.js" class="stripe-button"
           data-key="pk_fU3W7AlFlEEupRqXmPWAZbharLLph"
-          data-amount="50000"
+          data-amount="100000"
           data-name="Mostly Brilliant"
           data-description="Product & UX Audit"
           data-image="https://s3.amazonaws.com/stripe-uploads/qtrIgOTMPDHYNzREgfe2cL4MTyeu2pETmerchant-icon-1473110340448-square-logo.png"
@@ -122,6 +122,7 @@
       <p class="footer-meta">&copy; 2016 Mostly Brilliant</p>
     </div>
   </div>
+  <?php require_once("/feedback-popup.php"); ?>
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
