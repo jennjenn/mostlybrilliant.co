@@ -63,6 +63,7 @@
         data-bitcoin="true">
       </script>
     </form>
+    <span class="button-note"><a href="/ux-audit">Learn more</a></span>
 
     <h3>On-Demand Product & UX Expert</h3>
     <span class="pricing">Full Day: $1200 / Half Day: $650</span>
@@ -95,7 +96,7 @@
     <p>Mostly Brilliant is a location-independent company. My office is wherever I am and I've worked with clients all over the world: New York, London, Cape Town, and Nashville, to name a few. You could be next!</p>
       
       <h2>Who am I?</h2>
-    <p>&#128075; I'm <a href="http://jennvargas.com">Jenn Vargas</a>. I have over 8 years of product development and UX experience ranging from giant companies to brand new startups. I've done social, e-commerce, editorial & content, mobile, desktop, SaaS, you name it. I focus on strategy, product development, and user experience with the goal of helping you eliminate wasted resources as you build out your business. <a href="http://linkedin.com/in/jennifervargas">Here's my LinkedIn</a> if you'd like the nitty-gritty.</p>
+    <p>&#128075; I'm <a href="http://jennvargas.com">Jenn Vargas</a>. I have over 8 years of product development and UX experience ranging from giant companies to brand new startups. I've done social, e-commerce, editorial & content, mobile, desktop, SaaS, you name it. I focus on strategy, product development, and user experience with the goal of helping you eliminate wasted resources as you build out your business. I've been called a unicorn. And a swiss army knife. I'm proud of both. <a href="http://linkedin.com/in/jennifervargas">Here's my LinkedIn</a> if you'd like the nitty-gritty.</p>
 
     <h2>You + Mostly Brilliant</h2>
       <p>I'm looking for awesome clients with interesting projects. You can be <span class="highlight">anywhere in the world</span>. For us to work together well, you need to be <span class="highlight">comfortable with digital communication</span>. If the words Slack, screenshot, Google Docs, or emoji make you shudder, we may not be a very good fit. I like to enjoy the process of work, and that may involve the occasional gif. I hope you do too.</p>
@@ -128,7 +129,7 @@
 <footer class="container">
   <div class="row">
     <div class="col-xs-12">
-      <p class="footer-meta">&copy; 2017 Mostly Brilliant</p>
+      <p class="footer-meta">&copy; 2014-2017 Mostly Brilliant</p>
     </div>
   </div>
   <?php require_once("feedback-popup.php"); ?>

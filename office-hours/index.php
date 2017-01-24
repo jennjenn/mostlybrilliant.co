@@ -80,7 +80,7 @@
 <footer class="container">
   <div class="row">
     <div class="col-xs-12">
-      <p class="footer-meta">&copy; 2016 Mostly Brilliant</p>
+      <p class="footer-meta">&copy; 2014-2017 Mostly Brilliant</p>
     </div>
   </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
