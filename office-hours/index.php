@@ -13,7 +13,7 @@
         <meta property="og:site_name" content="Mostly Brilliant" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Free Product & UX Office Hours from Mostly Brilliant" />
-        <meta property="og:description" content="I offer free 45-minute one-on-one sessions to help awesome new companies sift through their product and UX questions and challenges. Every Wednesday from Jan 4 - Feb 8. Grab a spot while you can!" />
+        <meta property="og:description" content="I offer free 45-minute one-on-one sessions to help awesome new companies sift through your product and UX questions and challenges. Every Wednesday from Jan 4 - Feb 8. Grab a spot while you can!" />
         <meta property="og:image" content="http://mostlybrilliant.co/office-hours/oh-share.png" />
         <meta property="og:locale" content="en_US" />
 
@@ -52,8 +52,8 @@
 <!-- Calendly inline widget end -->
 
 		
-      <h2>I Want More!</h2>
-      <p>Fantastic! Enter your email and I'll be in touch shortly. I look forward to learning more about your project.</p>
+      <h2>Don't miss the next session!</h2>
+      <p>Sign up to get notified about the next round of Mostly Brilliant Office Hours:</p>
       <!-- Begin MailChimp Signup Form -->
 		<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 		<style type="text/css">
@@ -62,13 +62,13 @@
 			   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 		</style>
 		<div id="mc_embed_signup">
-			<form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=92eb669271" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=92eb669271&SOURCE=office-hours" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
 				
 				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 			    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cca0202faa1d268df2007d72_92eb669271" tabindex="-1" value=""></div>
-			    <div class="clear"><input type="submit" value="Let's Go" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+			    <div class="clear"><input type="submit" value="Keep Me Posted!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 			    </div>
 			</form>
 		</div>
