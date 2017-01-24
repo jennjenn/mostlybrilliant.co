@@ -122,6 +122,9 @@
       </form>
     </div>
   <!--End mc_embed_signup-->
+
+  <h2>Bonus!</h2>
+      <p>Occasionally I offer free 45-minute 1:1 sessions for those who might not be able to take advantage of usual services. <a href="/office-hours">You can find out more about that here.</a></p>
     </div>
   </div>
 </div>
