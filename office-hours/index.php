@@ -9,6 +9,14 @@
         <title>Mostly Brilliant &mdash; An Independent Product & UX Consultancy</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:url" content="http://mostlybrilliant.co/office-hours/" />
+        <meta property="og:site_name" content="Mostly Brilliant" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Free Product & UX Office Hours from Mostly Brilliant" />
+        <meta property="og:description" content="I offer free 45-minute one-on-one sessions to help awesome new companies sift through their product and UX questions and challenges. Every Wednesday from Jan 4 - Feb 8. Grab a spot while you can!" />
+        <meta property="og:image" content="http://mostlybrilliant.co/office-hours/oh-share.png" />
+        <meta property="og:locale" content="en_US" />
+
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
@@ -75,8 +83,9 @@
       <p class="footer-meta">&copy; 2016 Mostly Brilliant</p>
     </div>
   </div>
-</footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <?php require_once("../feedback-popup.php"); ?>
+</footer>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

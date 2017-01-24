@@ -53,7 +53,7 @@
 
 		<p>Past clients include ClassPass, Kandu (now Katapult), and Over.</p>
 
-		<p>Mostly Brilliant is a proudly location-independent company. My office is wherever I am and I've worked with clients all over the world: New York, London, Cape Town, and Nashville, to name a few. You could be next!
+		<p>Mostly Brilliant is a proudly location-independent company. My office is wherever I am and I've worked with clients all over the world: New York, London, Cape Town, and Nashville, to name a few. You could be next!</p>
 
       <h2>Services</h2>
 
@@ -79,7 +79,7 @@
 
       <h3>On-Demand Product & UX Expert</h3>
         <span class="pricing">Full Day: $1200 / Half Day: $650</span>
-        <p>If you have a short term or interim project, let me know! Subject to availability, I am free for consultation. No commitments, no sales &mdash; just straightforward advice when and where you need it. When these buttons are active, you'll hear from me within 24 hours (usually quicker) and we'll get your urgent request underway!</p>
+        <p>If you have a short term or interim project, let me know! Subject to availability, I am free for consultation. No commitments, no sales &mdash; just straightforward advice when and where you need it.</p>
 
 	    <h3>Product & UX Advisor</h3>
     <span class="pricing">$1600 per month, minimum 3-month commitment.</span>
@@ -115,16 +115,16 @@
     </div>
   </div>
 </div>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <footer class="container">
   <div class="row">
     <div class="col-xs-12">
       <p class="footer-meta">&copy; 2016 Mostly Brilliant</p>
     </div>
   </div>
-  <?php require_once("/feedback-popup.php"); ?>
+  <?php require_once("feedback-popup.php"); ?>
 </footer>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
