@@ -37,7 +37,7 @@
 		<p>Often companies jump straight from an idea into design and development without strategically defining their product and how it might best balance the needs of the business with the needs of their target users. This leads to waste of time, money, and effort. That's where I come in. </p>
 		<p>My goal is to take your vision for your product, balance the user and business needs, and design an optimal solution for your particular business that is ready for design and development. Your product strategy will be designed for the real world.</p> -->
       <h2>Services</h2>
-
+      <div class="service-section">
     <h3>Product & UX Audit</h3>
     <span class="pricing">$1000</span>
     <p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of your product with a focus on user experience and usability. From this, you'll get a report of at least 15 opportunities for improvement and optimization to give your users the best experience possible leading to increased conversion and retention.</p>
@@ -64,23 +64,27 @@
       </script>
     </form>
     <span class="button-note"><a href="/ux-audit">Learn more</a></span>
-
+</div>
+<div class="service-section">
     <h3>UX Tune Up</h3>
-    <span class="pricing">Starts at $1000</span>
+    <span class="pricing">Starts at $800</span>
     <p>If you've already had a UX Audit (or just want to dive right in!), and need someone to implement UX/UI improvements to your site, look no further. You provide the codebase and your goals for the page, and I'll get to work executing on front end updates that will make your site more user-friendly and optimized to reach your business goals.</p>
-
+</div>
+<div class="service-section">
     <h3>On-Demand Product & UX Expert</h3>
     <span class="pricing">Full Day: $1500 / Half Day: $800</span>
     <p>If you have a short term or interim project (or worse: a product or design emergency!) get in touch! Subject to availability, you can count on me to get the job done. No commitments, no sales &mdash; just the solution you need, when and where you need it.</p>
-
+</div>
+<div class="service-section">
     <h3>Product & UX Advisor</h3>
     <span class="pricing">$1600 per month, minimum 3-month commitment.</span>
     <p>You have a lot to worry about when building your business. When you're making big decisions about your product, what features should you prioritize? How can you make sure you're using your often-limited resources in the best way? You're not ready to hire a full-time Product or UX person, but you definitely need someone to help things move along.</p>
     <p>With this package, I'll learn about your business, your goals, and help develop a roadmap and KPIs for you to reach those goals. We'll have a kickoff meeting to develop a plan and then monthly check-ins to make sure things are on track. I'll be available for any questions or consultations you may need over the course of our engagement. Perfect for when you're in the "in between" phase of your business.</p>
-
+</div>
+<div class="service-section">
     <h3>Product Development</h3>
     <p>On a case-by-case basis, I work with companies and individuals to indentify and build out an MVP of a new product. Please contact me via the form below for more information.</p>
-
+</div>
     <h3>Questions?</h3>
     <p>Happy to help! <a href="mailto:hi@mostlybrilliant.co">Just shoot me a quick email.</a></p>
 
@@ -128,7 +132,7 @@
   <!--End mc_embed_signup-->
 
   <h2>Bonus!</h2>
-      <p>Occasionally I offer free 45-minute 1:1 product & ux review/feedback sessions for those who might not be able to take advantage of usual services. <a href="/office-hours">You can find out more about that here.</a></p>
+      <p>Occasionally I offer free 45-minute 1:1 product & ux review/feedback sessions for those who might not be able to access my typical services. <a href="/office-hours">You can find out more about that here.</a></p>
     </div>
   </div>
 </div>

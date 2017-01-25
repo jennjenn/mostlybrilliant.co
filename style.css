@@ -122,6 +122,9 @@ strong {
   color: #00A9BB;
   font-size: 0.8em; }
 
+.service-section {
+  margin-bottom: 2.2em; }
+
 #mc_embed_signup form {
   text-align: left !important;
   margin-top: -10px; }
