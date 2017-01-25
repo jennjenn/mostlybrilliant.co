@@ -47,7 +47,7 @@
     <div class="review-img">
       <img src="review-kk.png" alt="A glowing review from Kate Kendall of CloudPeeps" />
     </div>
-    <p><strong>Turnaround for your UX Audit:</strong> 2-2 business days.</p>
+    <p><strong>Turnaround for your UX Audit:</strong> 2-3 business days.</p>
     <form action="/success" method="POST" class="inline-button">
     <input type="hidden" name="product-id" value="audit" />
       <script
