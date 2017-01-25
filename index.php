@@ -68,7 +68,7 @@
 <div class="service-section">
     <h3>UX Tune Up</h3>
     <span class="pricing">Starts at $800</span>
-    <p>If you've already had a UX Audit (or just want to dive right in!), and need a developer to implement UX/UI improvements to your site, look no further. You provide the codebase and your goals for the page, and I'll get to work executing on front end updates that will make your site more user-friendly and optimized to reach your business goals.</p>
+    <p>If you've already had a UX Audit (or just want to dive right in!), and need a developer to implement UX/UI improvements to your site, look no further. As your all-in-one UX expert and developer, I'll get to work on executing on front end design and usability updates that will make your site more user-friendly and optimized to reach your business goals.</p>
 </div>
 <div class="service-section">
     <h3>On-Demand Product & UX Expert</h3>
