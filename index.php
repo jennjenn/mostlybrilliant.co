@@ -65,8 +65,12 @@
     </form>
     <span class="button-note"><a href="/ux-audit">Learn more</a></span>
 
+    <h3>UX Tune Up</h3>
+    <span class="pricing">Starts at $1000</span>
+    <p>If you've already had a UX Audit (or just want to dive right in!), and need someone to implement UX/UI improvements to your site, look no further. You provide the codebase and your goals for the page, and I'll get to work executing on front end updates that will make your site more user-friendly and optimized to reach your business goals.</p>
+
     <h3>On-Demand Product & UX Expert</h3>
-    <span class="pricing">Full Day: $1200 / Half Day: $650</span>
+    <span class="pricing">Full Day: $1500 / Half Day: $800</span>
     <p>If you have a short term or interim project (or worse: a product or design emergency!) get in touch! Subject to availability, you can count on me to get the job done. No commitments, no sales &mdash; just the solution you need, when and where you need it.</p>
 
     <h3>Product & UX Advisor</h3>
