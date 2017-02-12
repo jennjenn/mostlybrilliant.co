@@ -1,4 +1,5 @@
 # Enable mod_rewrite, start rewrite engine 
+Options +FollowSymLinks
 RewriteEngine on
 
 # Block source code viewing
@@ -6,4 +7,4 @@ RewriteRule "(^|/)(CVS|\.svn|\.git)/" - [F]
 
 RewriteRule ^success(/)*$ success.php [NC]
 RewriteRule ^live-design-audit(/)*$ live-audit-landing.php [NC]
-RewriteRule ^office-hours(/)*$ /live-design-audit [L,R=301]
+RewriteRule ^office-hours(/)*$ /live-design-audit [R=301,L]
