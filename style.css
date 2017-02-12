@@ -137,4 +137,27 @@ strong {
     text-transform: uppercase;
     background: #00A9BB; }
 
+#mc_embed_signup {
+  clear: left;
+  margin-top: 1em;
+  padding: 1em 3em;
+  border-radius: 2px;
+  font-family: 'Open Sans', sans-serif;
+  border: 1px solid #00A9BB; }
+  #mc_embed_signup p {
+    color: #898989; }
+  #mc_embed_signup.live-stream-form {
+    background: #fff;
+    text-align: center; }
+
+#audit-landing-page {
+  text-align: justify; }
+  #audit-landing-page #previews img {
+    max-width: 100%; }
+  #audit-landing-page h2 {
+    margin-bottom: 1em; }
+  #audit-landing-page h5 {
+    text-align: center;
+    font-weight: bold; }
+
 /*# sourceMappingURL=style.css.map */

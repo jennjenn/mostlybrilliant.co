@@ -5,3 +5,4 @@ RewriteEngine on
 RewriteRule "(^|/)(CVS|\.svn|\.git)/" - [F]
 
 RewriteRule ^success(/)*$ success.php [NC]
+RewriteRule ^live-design-audit(/)*$ live-audit-landing.php [NC]
