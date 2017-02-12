@@ -132,7 +132,7 @@
   <!--End mc_embed_signup-->
 
   <h2>Bonus!</h2>
-      <p>Occasionally I offer free 45-minute 1:1 product & ux review/feedback sessions for those who might not be able to access my typical services. <a href="/office-hours">You can find out more about that here.</a></p>
+      <p>Every month I do a (free!) live stream where I audit 3-5 sites in read time and answer your questions. <a href="/live-design-audit">You can find out more about that here.</a></p>
     </div>
   </div>
 </div>
