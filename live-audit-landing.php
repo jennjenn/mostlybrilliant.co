@@ -70,11 +70,11 @@
     <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
     <div id="mc_embed_signup" class="live-stream-form col-xs-12 col-sm-10 col-sm-offset-1">
     <p>Sign up to join the next session:</p>
-      <form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=92eb669271&SOURCE=live-audit" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=be387c1a0a&SOURCE=live-audit" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
           <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cca0202faa1d268df2007d72_92eb669271" tabindex="-1" value=""></div>
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cca0202faa1d268df2007d72_be387c1a0a" tabindex="-1" value=""></div>
           <div class="clear"><input type="submit" value="Join the next session" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
         </div>
       </form>
