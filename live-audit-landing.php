@@ -15,11 +15,11 @@
         <link href='https://fonts.googleapis.com/css?family=Hammersmith+One|Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/style.css">
 
-        <meta property="og:url" content="http://mostlybrilliant.co/live-audit/" />
+        <meta property="og:url" content="http://mostlybrilliant.co/live-design-audit/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="FREE Live Website Design Audits &mdash; Mostly Brilliant" />
         <meta property="og:description" content="Know you need to improve your site but don't know where to begin? Each month I select up to 5 websites and perform a design and usability audit while answering your questions LIVE." />
-        <meta property="og:image" content="http://mostlybrilliant.co/img/live-design-audit.png" />
+        <meta property="og:image" content="http://mostlybrilliant.co/img/live-audit.png" />
 
     </head>
     <body>
