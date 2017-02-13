@@ -50,8 +50,9 @@
     		<div class="col-xs-12 col-sm-4">
     			<h4 class="text-center">&ldquo;Customers seem to be having a difficult time using my site.&rdquo;</h4>
     		</div>
+    <h2 class="text-center">Good design sells. </h2>
+    <p>Creating a site that looks good, works well, & achieves its goals is not rocket science. You just have to know what to look for:</p>
 
-    <h3 class="text-center">Creating a site that looks good, works well, & achieves its goals is not rocket science. You just have to know what to look for:</h3>
 
 	<div id="previews" class="row">
       <div class="col-xs-12 col-sm-6">
@@ -64,7 +65,7 @@
       </div>
     </div>
 
-    <p>It boils down to some basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
+   
 
 	<h2 class="text-center">I'll show you how I do it in 15 minutes</h2>
     <p>Hey! I'm Jenn. Every month, I do a live stream where I review up to 5 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
@@ -83,6 +84,8 @@
         <img src="img/gwtg-after.png" alt="Audit After" />
       </div>
     </div>
+
+     <p>It boils down to a few basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
 
     <h2 class="text-center">I charge $1000 for an Audit. You can join FREE.</h2>
     <p>My <a href="http://mostlybrilliant.co/ux-audit">UX audits</a> are comprehensive reports about how to improve your site's design and usability to reach your goals. In the live stream, I do an abbreviated version of this for FREE. Anyone can attend the live sessions and ask questions. If you're interested in improving your own site or if you're curious about design and UX, join us!</p>
