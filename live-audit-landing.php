@@ -38,18 +38,22 @@
   </div>
   <div class="row">
     <div class="col-xs-12">
-		<h1>Improve Your Site in 15 Minutes</h1>
-    <h2 class="text-center">Join My Live Website Design Audits</h2>
-    <p>You know you need to improve the design and usability of your site, but you have no idea where to begin, right?</p>
-    <p>Putting together a site that looks good and achieves its goals is not rocket science stuff. You just have to know what to look for.</p>
-    <p>It boils down to some basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
+		<h1>Improve Your Site's Conversion in 15 Minutes</h1>
+ 
+ 		<div class="row">
+ 			<div class="col-xs-12 col-sm-4">
+    			<h4 class="text-center">&ldquo;I want to improve my site, but I'm not a designer.&rdquo;</h4>
+    		</div>
+    		<div class="col-xs-12 col-sm-4">
+    			<h4 class="text-center">&ldquo;My site isn't bringing in the new business I thought it would.&rdquo;</h4>
+    		</div>
+    		<div class="col-xs-12 col-sm-4">
+    			<h4 class="text-center">&ldquo;Customers seem to be having a difficult time using my site.&rdquo;</h4>
+    		</div>
 
-    <h3 class="text-center">I'll show you how I do it in 15 minutes</h3>
-    <p>Hey! I'm Jenn. Every month, I do a live stream where I audit up to 5 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
+    <h3 class="text-center">Creating a site that looks good, works well, & achieves its goals is not rocket science. You just have to know what to look for:</h3>
 
-    <h3 class="text-center">Here's a quick live-audit example:</h3>
-    <p>Beck's landing page for <a href="http://nomadfly.me" target="_blank">NomadFly</a> had a lot going for it, but there was no hierarchy for the text and the important calls to action were in conflict. Here's a quick design audit of just the first view of the page:</p>
-    <div id="previews" class="row">
+	<div id="previews" class="row">
       <div class="col-xs-12 col-sm-6">
         <h5>BEFORE</h5>
         <img src="img/nomadfly-before.png" alt="Nomadfly Before" />
@@ -60,7 +64,27 @@
       </div>
     </div>
 
-    <h3 class="text-center">I charge $1000 for an Audit. You can join for FREE.</h3>
+    <p>It boils down to some basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
+
+	<h2 class="text-center">I'll show you how I do it in 15 minutes</h2>
+    <p>Hey! I'm Jenn. Every month, I do a live stream where I review up to 5 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
+
+
+    <h3 class="text-center">Here's a quick live-audit example:</h3>
+    <p>This landing page had all the right information, but there was no hierarchy for the text and the important calls to action were in conflict. Here's a quick design audit of just the first view of the page:</p>
+   
+   	<div id="previews" class="row">
+      <div class="col-xs-12 col-sm-6">
+        <h5>BEFORE</h5>
+        <img src="img/gwtg-before.png" alt="Audit Before" />
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        <h5>AFTER</h5>
+        <img src="img/gwtg-after.png" alt="Audit After" />
+      </div>
+    </div>
+
+    <h2 class="text-center">I charge $1000 for an Audit. You can join FREE.</h2>
     <p>My <a href="http://mostlybrilliant.co/ux-audit">UX audits</a> are comprehensive reports about how to improve your site's design and usability to reach your goals. In the live stream, I do an abbreviated version of this for FREE. Anyone can attend the live sessions and ask questions. If you're interested in improving your own site or if you're curious about design and UX, join us!</p>
 
     <h3 class="text-center">Why give it away for free?</h3>
@@ -85,7 +109,7 @@
     <!--End mc_embed_signup-->
     
     <h3 class="text-center">Hey Jenn, Can you audit my site?</h3>  
-		<p>I review 3-5 sites in each session. If you'd like your site to be included, sign up for the list and when I send out the request for volunteers, be sure to respond ASAP!</p>
+		<p>I review 3-5 sites in each session. Your site can be e-commerce sites, a web app, a small businesses, or a blog, to name a few. If you'd like your site to be included, sign up for the list and when I send out the request for volunteers, be sure to respond ASAP!</p>
    
   
     </div>
