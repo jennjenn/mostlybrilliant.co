@@ -45,7 +45,7 @@
     <p>It boils down to some basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
 
     <h3 class="text-center">I'll show you how I do it in 15 minutes</h3>
-    <p>Hey! I'm Jenn. Every month, I do a live stream where I audit up to 5 submitted sites, adjusting the design in real time, talking through the "why" and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
+    <p>Hey! I'm Jenn. Every month, I do a live stream where I audit up to 5 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
 
     <h3 class="text-center">Here's a quick live-audit example:</h3>
     <p>Beck's landing page for <a href="http://nomadfly.me" target="_blank">NomadFly</a> had a lot going for it, but there was no hierarchy for the text and the important calls to action were in conflict. Here's a quick design audit of just the first view of the page:</p>
