@@ -10,10 +10,13 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <meta name="og:image" content="http://mostlybrilliant.co/ux-audit/diamobulb-small.png" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
         <link href='https://fonts.googleapis.com/css?family=Hammersmith+One|Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="style.css">
+
+        <script src="//load.sumome.com/" data-sumo-site-id="ffe6b3682a8c324cf9337e2b604738516d180c4b91909a873914449d5b56835c" async="async"></script>
 
     </head>
     <body>
