@@ -17,9 +17,16 @@
 
         <meta property="og:url" content="http://mostlybrilliant.co/live-design-audit/" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="FREE Live Website Design Audits &mdash; Mostly Brilliant" />
-        <meta property="og:description" content="Know you need to improve your site but don't know where to begin? Each month I select up to 5 websites and perform a design and usability audit while answering your questions LIVE." />
+        <meta property="og:title" content="LIVE UX & Design Audits. Every Month. Free. &mdash; Mostly Brilliant" />
+        <meta property="og:description" content="Improve your site's conversion. Join this monthly UX series where I run down how to improve your site's design to meet your goals in an interactive livestream. Join in, ask questions, or submit your site. I'll be reviewing 3-5 sites per session (and it's free!)" />
         <meta property="og:image" content="http://mostlybrilliant.co/img/live-audit.png" />
+
+        <meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@mstlybrilliant">
+		<meta name="twitter:creator" content="@jennjenn">
+		<meta name="twitter:title" content="LIVE UX & Design Audits. Every Month. Free.">
+		<meta name="twitter:description" content="Improve your site's conversion. Join this monthly UX series where I run down how to improve your site's design to meet your goals in an interactive livestream. Join in, ask questions, or submit your site. I'll be reviewing 3-5 sites per session (and it's free!)">
+		<meta name="twitter:image" content="http://mostlybrilliant.co/img/live-audit.png">
 
         <script src="//load.sumome.com/" data-sumo-site-id="ffe6b3682a8c324cf9337e2b604738516d180c4b91909a873914449d5b56835c" async="async"></script>
 
