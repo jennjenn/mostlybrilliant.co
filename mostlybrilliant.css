@@ -426,6 +426,8 @@ p.intro {
     max-width: 100%; }
 
   #service-options .service-img {
-    text-align: center; } }
+    text-align: center; }
+  #service-options .service-info {
+    border: 0; } }
 
 /*# sourceMappingURL=mostlybrilliant.css.map */
