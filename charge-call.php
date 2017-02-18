@@ -10,6 +10,7 @@ require_once('vendor/stripe/init.php');
 // Get the payment token submitted by the form:
 $token  = $_POST['stripeToken'];
 $email  = $_POST['stripeEmail'];
+$name   = $_POST['clientName'];
 
 // Charge the user's card:
 $charge = \Stripe\Charge::create(array(

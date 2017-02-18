@@ -12,30 +12,36 @@
                 <li>I'll follow up via email with key points from our call so you don't have to worry about taking notes.</li>
                 <li>Prosper.</li>
                 </ul>
-                
+
                 <h3>Get Started</h3>
                 <p>Consult calls can be booked instantly for $200. After your payment is processed, you'll be able to select a time for your call and receive instructions for dialing in. It's that simple.</p>     
     	   </div>
     	</div>
     	<div class="row payment-button">
-    		<div class="col-xs-12 col-sm-4 col-sm-offset-4">
-                <script src="https://js.stripe.com/v3/"></script>
-
-                <form action="/order-call" method="post" id="payment-form" class="form-group">
-                  <div class="form-row">
-                    <label for="card-element">
-                      Enter your credit or debit card:
+    		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
+            <script src="https://js.stripe.com/v3/"></script>
+              <form action="/order-call" method="post" id="payment-form">
+                <div class="group">
+                    <label>
+                        <span>Full Name:</span>
+                        <input class="field" id="clientName" placeholder="Jane Doe" type="text" />
                     </label>
-                    <div id="card-element">
-                      <!-- a Stripe Element will be inserted here. -->
-                    </div>
-
-                    <!-- Used to display form errors -->
-                    <div id="card-errors"></div>
-                  </div>
-
-                  <button>Submit Payment</button>
-                </form>
+                    <label>
+                        <span>Email:</span>
+                        <input class="field" id="stripeEmail" placeholder="you@awesome.com" type="email" />
+                    </label>
+                </div>
+                <div class="group">
+                  <label>
+                    <span>Card</span>
+                    <div id="card-element" class="field"></div>
+                  </label>
+                </div>
+                <button type="submit">Schedule Call</button>
+                <div class="outcome">
+                  <div class="error"></div>
+                </div>
+              </form>
     		</div>
 		</div>
 	</div>

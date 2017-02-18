@@ -42,26 +42,32 @@
     		</div>
     	</div>
     	<div class="row payment-button">
-    		<div class="col-xs-12 col-sm-4 col-sm-offset-4">
-                <script src="https://js.stripe.com/v3/"></script>
-
-                <form action="/order-ux-audit" method="post" id="payment-form" class="form-group">
-                  <div class="form-row">
-                    <label for="card-element">
-                      Enter your credit or debit card:
-                    </label>
-                    <div id="card-element">
-                      <!-- a Stripe Element will be inserted here. -->
-                    </div>
-
-                    <!-- Used to display form errors -->
-                    <div id="card-errors"></div>
-                  </div>
-
-                  <button>Submit Payment</button>
-                </form>
-    		</div>
-		</div>
+            <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+            <script src="https://js.stripe.com/v3/"></script>
+              <form action="/order-call" method="post" id="payment-form">
+                <div class="group">
+                  <label>
+                    <span>Full Name:</span>
+                    <input class="field" id="clientName" placeholder="Jane Doe" type="text" />
+                  </label>
+                  <label>
+                    <span>Email:</span>
+                    <input class="field" id="stripeEmail" placeholder="you@awesome.com" type="email" />
+                  </label>
+                </div>
+                <div class="group">
+                  <label>
+                    <span>Card</span>
+                    <div id="card-element" class="field"></div>
+                  </label>
+                </div>
+                <button type="submit">Order Your UX Audit</button>
+                <div class="outcome">
+                  <div class="error"></div>
+                </div>
+              </form>
+            </div>
+        </div>
 	</div>
 	
 <?php require_once("includes/footer.php"); ?>

@@ -11,6 +11,7 @@ $stripe = array(
 
 $token  = $_POST['stripeToken'];
 $email  = $_POST['stripeEmail'];
+$name   = $_POST['clientName'];
 
   $customer = \Stripe\Customer::create(array(
       'email' => $email,
