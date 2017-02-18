@@ -36,7 +36,7 @@ if(!empty($_POST)){
 
 <div id="order-success" class="container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
       
     <h1>Fantastic!</h1>
   

@@ -37,11 +37,11 @@
 
 					<h3>60-Minute Consultation Call</h3>
 					<p>Need to bounce your plans or ideas before you commit to a path? Need a quick review of a new element before you push it to production? Just want to pick my brain? Let's hop on a call or screen share and dive into your concerns. By the end of the hour, you'll have an actionable plan for moving forward. And hopefully fewer things to worry about.</p>
-					<p class="price">$200 <span class="small-cta"><a href="consult-call">Learn More & Schedule</a></span></p>
+					<p class="price">$200 <span class="small-cta"><a href="consult-call">Learn More & Schedule Instantly</a></span></p>
 
 					<h3>UX Audit</h3>
 					<p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of your product with a focus on user experience and usability. From this, you'll get a report of at least 15 opportunities for improvement and optimization to give your users the best experience possible leading to increased conversion and retention. Most UX Audits are completed within 2-3 business days.</p>
-					<p class="price">$1000 <span class="small-cta"><a href="ux-audit">Learn More</a></span></p>
+					<p class="price">$1000 <span class="small-cta"><a href="ux-audit-beta">Learn More & Order Instantly</a></span></p>
 				</div>
 			</div>
 		</div>
@@ -61,12 +61,12 @@
 	    		<div class="col-xs-12 col-sm-7 service-info service-launch">
 	    			<h3>MVP Strategy</h3>
 	    			<p>You have big ideas for a new app or site bouncing around your head but you don't know how to translate them into something you can put out into the world within your budget or timeframe. Over a 2-week sprint, we'll filter through your ideas and goals using my product definition framework. We'll then identify a strategy for validating your product within the scope of your resources so you can be sure you have something people will love before you go too far down the development path and users go "meh." That would suck.</p>
-	    			<p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!">Email me to get started.</a></span></p>
+	    			<p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!" target="_blank">Email me to get started</a></span></p>
 
 	    			<h3>Prototype Buildout</h3>
 	    			<p>Being able to actually interact with your site or app, especially in the early concept stages, changes everything about your ability to identify issues, communicate flows, and even get user feedback as soon as possible. It makes your concept a tangible thing you can use as the foundation to build on, iterate on, and better understand, without spending a dime to write code that may never see the light of day.</p>
 	    			<p>I work with individuals and companies in the "ideas" stage of a product's development to break down the key concepts and flows into a usable wireframed prototype that you can load up in your browser or on your phone and see your idea come to life. </p>
-	    			<p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!">Email me to get started.</a></span></p>
+	    			<p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!" target="_blank">Email me to get started</a></span></p>
 	    		</div>
 	    	</div>
 			<div class="row is-flex">
@@ -80,12 +80,12 @@
 					<h3>Optimize Basics</h3>
 	    			<p>For products making slow, deliberate changes or those taking a more DIY approach.</p>
 	    			<ul>
-	    				<li>Monthly <a href="/ux-audit">UX Audit</a></li>
+	    				<li>Monthly <a href="/ux-audit-beta">UX Audit</a></li>
 	    				<li>Basic analytics setup</li>
 	    				<li>A 60-minute <a href="/consult-call">Consult Call</a> every month</li>
 	    				<li>Unlimited Q&A during business hours in the Mostly Brilliant Slack</li>
 	    			</ul>
-	    			<p class="price">$1600/mo or $4300/quarter. <span class="small-cta"><a href="/optimize-basics">Learn more.</a></span></p>
+	    			<p class="price">$1600/mo or $4300/quarter. <span class="small-cta"><a href="/optimize-basics">Learn more</a></span></p>
 
 	    			<h3>Optimize Premium</h3>
 	    			<p>For products iterating fast and often.</p>
@@ -95,7 +95,7 @@
 	    				<li>Bi-weekly Analytics check-ins and adjustments</li>
 	    				<li>A product & ux roadmap and strategy review every quarter</li>
 	    			</ul>
-	    			<p class="price">$6200/quarter <span class="small-cta"><a href="/optimize-premium">Learn more.</a></span></p>
+	    			<p class="price">$6200/quarter <span class="small-cta"><a href="/optimize-premium">Learn more</a></span></p>
 	    		</div>
 	    	</div>
 	    </div>
