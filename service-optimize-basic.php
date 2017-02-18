@@ -20,7 +20,7 @@
 
     			<p>You can choose to work with me a month at a time, or, if you'd like me to be able to dive deeper into your product, on a quarterly basis:</p>
 
-    			<p>$1500/mo or $4200/quarter</p>
+    			<p>$1200/mo or $3300/quarter</p>
     		</div>
     	</div>
     	<div class="row button-full">

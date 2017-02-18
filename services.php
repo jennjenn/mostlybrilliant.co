@@ -85,7 +85,7 @@
 	    				<li>A 60-minute <a href="/consult-call">Consult Call</a> every month</li>
 	    				<li>Unlimited Q&A during business hours in the Mostly Brilliant Slack</li>
 	    			</ul>
-	    			<p class="price">$1600/mo or $4300/quarter. <span class="small-cta"><a href="/optimize-basics">Learn more</a></span></p>
+	    			<p class="price">$1200/mo or $3300/quarter. <span class="small-cta"><a href="/optimize-basics">Learn more</a></span></p>
 
 	    			<h3>Optimize Premium</h3>
 	    			<p>For products iterating fast and often.</p>
@@ -95,7 +95,7 @@
 	    				<li>Bi-weekly Analytics check-ins and adjustments</li>
 	    				<li>A product & ux roadmap and strategy review every quarter</li>
 	    			</ul>
-	    			<p class="price">$6200/quarter <span class="small-cta"><a href="/optimize-premium">Learn more</a></span></p>
+	    			<p class="price">$5400/quarter <span class="small-cta"><a href="/optimize-premium">Learn more</a></span></p>
 	    		</div>
 	    	</div>
 	    </div>

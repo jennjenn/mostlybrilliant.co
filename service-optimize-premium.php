@@ -22,7 +22,7 @@
 
     			<p>This all happens over a 3-month period to give the improvements and experiments enough time to be implemented, collect data, and make any necessary adjustments. I ask that you commit to at least 3 months because optimization and refinement (unfortunately) can't happen in a day, and I want to make sure that you're set up for success as a result of our time together.</p>
 
-    			<p>$6200 per quarter. Limited spots available now!</p>
+    			<p>$5400 per quarter. Limited spots available now!</p>
     		</div>
     	</div>
     	<div class="row button-full">
