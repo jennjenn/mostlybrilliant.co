@@ -2,26 +2,22 @@
 require_once('includes/header.php');
 require_once('vendor/stripe/init.php'); 
 
-$stripe = array(
-  "secret_key"      => "REDACTED",
-  "publishable_key" => "pk_test_dtuTTxtSrWJjqU0RUq78pdoY"
-);
+// Set your secret key: remember to change this to your live secret key in production
+// See your keys here: https://dashboard.stripe.com/account/apikeys
+\Stripe\Stripe::setApiKey("REDACTED");
 
-\Stripe\Stripe::setApiKey($stripe['secret_key']);
-
+// Token is created using Stripe.js or Checkout!
+// Get the payment token submitted by the form:
 $token  = $_POST['stripeToken'];
 $email  = $_POST['stripeEmail'];
 
-  $customer = \Stripe\Customer::create(array(
-      'email' => $email,
-      'source'  => $token
-  ));
-
-  $charge = \Stripe\Charge::create(array(
-      'customer' => $customer->id,
-      'amount'   => 20000,
-      'currency' => 'usd'
-  ));
+// Charge the user's card:
+$charge = \Stripe\Charge::create(array(
+  "amount" => 20000,
+  "currency" => "usd",
+  "description" => "60min Consult Call",
+  "source" => $token,
+));
 
 ?>
 

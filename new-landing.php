@@ -22,7 +22,7 @@
  	<div id="service-preview" class="container">
     	<div class="row">
     		<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-    			<p class="intro text-center">Mostly Brilliant's services are broken down into two separate stage to make sure you're getting the right help for your company's development:</h4>
+    			<p class="intro text-center">Mostly Brilliant's services are broken down into two stages to make sure you're getting the right help for your company's development:</h4>
     		</div>
     		<div id="launch" class="col-xs-12 col-sm-6">
     			<h2>Launch</h2>
