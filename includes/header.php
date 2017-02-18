@@ -28,7 +28,7 @@
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="/new-landing.php"><img src="img/logo-white.png" alt="Mostly Brilliant" /></a>
+	      <a class="navbar-brand" href="/beta"><img src="img/logo-white.png" alt="Mostly Brilliant" /></a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->
