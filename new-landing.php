@@ -1,4 +1,5 @@
 <?php require_once('includes/header.php'); ?>
+<div id="landing">
     <div id="hero" class="grad-full">
     	<div class="container">
     		<div class="row">
@@ -12,8 +13,7 @@
     	<div class="container">
     		<div class="row">
 	    		<div class="col-xs-12">
-    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas, focused on making the most of limited resources in small and early stage businesses by applying tech startup product development and design practices.
-    				</p>
+    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas, focused on making the most of limited resources in small and early stage businesses by applying tech startup product development and design practices.</p>
     			</div>
     		</div>
     	</div>
@@ -82,5 +82,6 @@
 				</div>
 			</div>	
 		</div>
-
+	</div>
+</div>
 <?php require_once("includes/footer.php"); ?>

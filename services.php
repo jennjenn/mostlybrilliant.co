@@ -1,4 +1,5 @@
 <?php require_once('includes/header.php'); ?>
+<div id="landing">
     <div id="hero" class="hero-short grad-full">
     	<div class="container">
     		<div class="row">
@@ -12,7 +13,7 @@
  	<div id="service-preview" class="container">
     	<div class="row">
     		<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-    			<p class="intro text-center">Mostly Brilliant's services are broken down into two separate stage to make sure you're getting the right help for your company's development:</h4>
+    			<p class="intro text-center">Mostly Brilliant's services are broken down into two separate stage to make sure you're getting the right help for your company's development:</p>
     		</div>
     		<div id="launch" class="col-xs-12 col-sm-6">
     			<h2>Launch</h2>
@@ -60,12 +61,12 @@
 	    		<div class="col-xs-12 col-sm-7 service-info service-launch">
 	    			<h3>MVP Strategy</h3>
 	    			<p>You have big ideas for a new app or site bouncing around your head but you don't know how to translate them into something you can put out into the world within your budget or timeframe. Over a 2-week sprint, we'll filter through your ideas and goals using my product definition framework. We'll then identify a strategy for validating your product within the scope of your resources so you can be sure you have something people will love before you go too far down the development path and users go "meh." That would suck.</p>
-	    			<p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!">Email me to get started.</a></p>
+	    			<p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!">Email me to get started.</a></span></p>
 
 	    			<h3>Prototype Buildout</h3>
 	    			<p>Being able to actually interact with your site or app, especially in the early concept stages, changes everything about your ability to identify issues, communicate flows, and even get user feedback as soon as possible. It makes your concept a tangible thing you can use as the foundation to build on, iterate on, and better understand, without spending a dime to write code that may never see the light of day.</p>
-	    			<p>I work with individuals and companies in the "ideas" stage of a product's development to break down the key concepts and flows into a usable wireframed prototype that you can load up in your browser or on your phone and see your idea come to life. 
-	    			<p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!">Email me to get started.</a></p>
+	    			<p>I work with individuals and companies in the "ideas" stage of a product's development to break down the key concepts and flows into a usable wireframed prototype that you can load up in your browser or on your phone and see your idea come to life. </p>
+	    			<p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!">Email me to get started.</a></span></p>
 	    		</div>
 	    	</div>
 			<div class="row is-flex">
@@ -84,7 +85,7 @@
 	    				<li>A 60-minute <a href="/consult-call">Consult Call</a> every month</li>
 	    				<li>Unlimited Q&A during business hours in the Mostly Brilliant Slack</li>
 	    			</ul>
-	    			<p class="price">$1600/mo or $4300/quarter. <span class="small-cta"><a href="/optimize-basics">Learn more.</a></p>
+	    			<p class="price">$1600/mo or $4300/quarter. <span class="small-cta"><a href="/optimize-basics">Learn more.</a></span></p>
 
 	    			<h3>Optimize Premium</h3>
 	    			<p>For products iterating fast and often.</p>
@@ -94,7 +95,7 @@
 	    				<li>Bi-weekly Analytics check-ins and adjustments</li>
 	    				<li>A product & ux roadmap and strategy review every quarter</li>
 	    			</ul>
-	    			<p class="price">$6200/quarter <span class="small-cta"><a href="/optimize-premium">Learn more.</a></p>
+	    			<p class="price">$6200/quarter <span class="small-cta"><a href="/optimize-premium">Learn more.</a></span></p>
 	    		</div>
 	    	</div>
 	    </div>
@@ -123,5 +124,6 @@
 				</div>
 			</div>	
 		</div>
-
+	</div>
+</div>
 <?php require_once("includes/footer.php"); ?>

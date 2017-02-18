@@ -1,6 +1,6 @@
 <?php require_once('includes/header.php'); ?>
   
- 	<div id="service-single" class="container service-detail-page">
+ 	<div id="service-detail-page" class="container">
     	<div class="row">
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
     			<h1>Optimize Premium</h1>
