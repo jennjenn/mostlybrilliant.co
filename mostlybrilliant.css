@@ -214,6 +214,8 @@ footer {
     font-size: 1.2em;
     font-weight: 200;
     text-align: justify; }
+    #landing #service-preview p.intro {
+      text-align: center; }
   #landing #service-preview #launch {
     margin-top: 1em; }
     #landing #service-preview #launch h2 {
