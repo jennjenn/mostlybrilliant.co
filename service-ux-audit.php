@@ -44,7 +44,7 @@
     	<div class="row payment-button">
             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
             <script src="https://js.stripe.com/v3/"></script>
-              <form action="/order-call" method="post" id="payment-form">
+              <form action="/order-ux-audit" method="post" id="payment-form">
                 <div class="group">
                   <label>
                     <span>Full Name:</span>
@@ -63,7 +63,7 @@
                 </div>
                 <button type="submit">Order Your UX Audit</button>
                 <div class="outcome">
-                  <div class="error"></div>
+                  <div id="card-errors"></div>
                 </div>
               </form>
             </div>

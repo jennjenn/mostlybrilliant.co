@@ -39,7 +39,7 @@
                 </div>
                 <button type="submit">Schedule Call</button>
                 <div class="outcome">
-                  <div class="error"></div>
+                  <div id="card-errors"></div>
                 </div>
               </form>
     		</div>
