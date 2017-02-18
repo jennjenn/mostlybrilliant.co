@@ -6,7 +6,7 @@ $('.navbar').affix({
 
 
 // Create a Stripe client
-var stripe = Stripe('pk_test_dtuTTxtSrWJjqU0RUq78pdoY');
+var stripe = Stripe('pk_test_mpkcGf36lX1UJF1JvaehvarJ');
 
 // Create an instance of Elements
 var elements = stripe.elements();
