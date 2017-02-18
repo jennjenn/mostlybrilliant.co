@@ -31,6 +31,15 @@ a{
 	color: #00AAD3;
 }
 
+
+ul{
+	margin-left: -23px;
+
+	li{
+		margin-bottom: 0;
+	}
+}
+
 .navbar{
 	//TODO: add logo
 	z-index: 20;
@@ -55,6 +64,7 @@ a{
 			a{
 				color: #fff;
 				padding-top: 20px;
+				text-transform: uppercase;
 			}
 		}
 	}
@@ -129,6 +139,47 @@ footer{
 	padding: 1.5em 0 1em;
 }
 
+
+.button-full{
+	text-align: center;
+	margin: 4em 0 1em;
+}
+
+.payment-button{
+	margin-bottom: 3em;
+}
+
+.button{
+	margin: 0 auto;
+	width: auto;
+	color: rgba(35,181,233,0.85);
+	border: 2px solid rgba(35,181,233,0.85);
+	border-radius: 5px;
+	text-transform: uppercase;
+	padding: 0.5em 2em;
+	font-size: 1.2em;
+	font-weight: 700;
+	background: none;
+	-webkit-transition: background 0.2s ease-in-out;
+	-webkit-transition: color 0.3s ease-in-out;
+
+	&:hover{
+		background: rgba(35,181,233,0.85);
+		color: #fff;
+		text-decoration: none;
+	}
+}
+
+.button-alt{
+	color: #fff;
+	border: 2px solid #fff;
+
+	&:hover{
+		color: rgba(35,181,233,0.85) !important;
+		background: #fff;
+	}
+}
+
 //------ LANDING ------//
 #hero{
 	background: -moz-linear-gradient(130deg, rgba(0,167,162,0.85) 0%, rgba(35,181,233,0.85) 100%), url('img/hero-bg2.jpg'); /* ff3.6+ */
@@ -154,6 +205,10 @@ footer{
 	    line-height: 1.25em;
 	    font-weight: 800;
 	    letter-spacing: 0.01em;
+	}
+
+	&.hero-short{
+		padding: 5em 0 2.5em;
 	}
 }
 
@@ -189,6 +244,8 @@ footer{
 	}
 
 	#launch{
+		margin-top: 1em;
+
 		h2{
 			@include grad-launch;
 			-webkit-background-clip: text;
@@ -197,6 +254,8 @@ footer{
 	}
 
 	#optimize{
+		margin-top: 1em;
+
 		h2{
 			@include grad-optimize;
 			-webkit-background-clip: text;
@@ -217,7 +276,7 @@ footer{
 		padding: 3.5em 10em 3em;
 		font-size: 1.3em;
     	line-height: 1.75em;
-    	text-align: justify;
+    	text-align: center;
 	}
 }
 
@@ -239,6 +298,20 @@ p.intro{
 
 	.intro{
 		text-align: left;
+	}
+
+	h2{
+		@include grad-launch;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;	
+		text-transform: uppercase;
+		font-weight: 700;
+		text-align: center;
+	}
+
+	p.intro{
+		text-align: center;
+		margin-bottom: 3em;
 	}
 
 	.service-img{
@@ -285,12 +358,8 @@ p.intro{
 	    	margin-bottom: 1em;
 		}
 
-		ul{
-			margin-left: -23px;
-
-			li{
-				margin-bottom: 0;
-			}
+		li{
+			margin-bottom: 0;
 		}
 
 		&.service-launch{
@@ -324,6 +393,8 @@ p.intro{
 
 #first-steps{
 	padding-top: 2em;
+	margin-top: -2em;
+	margin-bottom: 4em;
 
 	p.intro{
 		line-height: 1.5em;
@@ -361,15 +432,41 @@ p.intro{
 	}
 }
 
+#about{
+	margin-top: 4em;
+	padding: 5em 0 4em;
+
+	.button-full{
+		margin-top: 2em;
+	}
+
+	#photo-jenn{
+		max-width: 100%;
+		border-radius: 20px;
+	}
+
+	h3{
+		margin-top: 0;
+		text-transform: uppercase;
+		font-weight: 700;
+	}
+
+	p{
+		font-size: 1.2em;
+    	line-height: 1.5em;
+    	font-weight: 300;
+    	margin-bottom: 1em;
+	}
+}
+
 #about-section{
 	margin-top: 4em;
 	@include grad-full;
 	color: #fff;
 	padding: 5em 0 4em;
 
-	#photo-jenn{
-		max-width: 100%;
-		border-radius: 3px;
+	.button-full{
+		margin-top: 2em;
 	}
 
 	h3{
@@ -412,12 +509,22 @@ p.intro{
 		}
 
 		.button{
-			@include grad-launch;
-			color: #fff;
-			font-weight: 500;
+			color: rgba(35,181,233,0.85);
+			background: none;
+			border: 2px solid rgba(35,181,233,0.85);
+			border-radius: 5px;
 			text-transform: uppercase;
-			font-size: 1.2em;
-			font-weight: 500;
+			padding: 0.4em 1.5em 0.5em;
+		    font-size: 1.2em;
+		    font-weight: 700;
+		    line-height: 1em;
+			-webkit-transition: background 0.5s ease-in-out;
+
+			&:hover{
+				background: rgba(35,181,233,0.85);
+				color: #fff;
+				text-decoration: none;
+			}
 		}
 	}
 }
@@ -474,5 +581,146 @@ p.intro{
 
 	.navbar-header, .navbar-collapse{
 		@include grad-full;
+	}
+}
+
+.service-detail-page{
+	margin-top: 6em;
+
+	h1{
+		font-weight: 700;
+		text-transform: uppercase;
+		@include grad-launch;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		text-align: center;
+	}
+
+	p, li{
+		font-size: 1.175em;
+		line-height: 1.65em;
+		font-weight: 300;
+	}
+
+	li{
+    	// margin-bottom: 0;
+	}
+
+	.button-full{
+		margin-top: 0;
+		margin-bottom: 3em;
+	}
+
+	#mc_embed_signup{
+		background: none;
+
+		.button{
+			margin: 0 auto;
+			width: auto;
+			color: rgba(35,181,233,0.85);
+			border: 2px solid rgba(35,181,233,0.85);
+			border-radius: 5px;
+			text-transform: uppercase;
+			padding: 0.4em 2em;
+			font-size: 1.2em;
+			font-weight: 700;
+			background: none;
+			line-height: 1em;
+			-webkit-transition: background 0.2s ease-in-out;
+			-webkit-transition: color 0.3s ease-in-out;
+
+			&:hover{
+				background: rgba(35,181,233,0.85);
+				color: #fff;
+				text-decoration: none;
+			}
+		}
+	}
+
+	.review{
+		color: #898989;
+		font-size: 1em;
+		font-style: italic;
+		margin-top: 1em;
+
+		.attribution{
+			color: #AEBBBD;
+			display: block;
+			font-size: 0.8em;
+			text-align: right;
+			margin-top: 0.5em;
+		}
+
+		.review-img{
+			display: inline-block;
+			margin-right: 1em;
+			width: 12%;
+			vertical-align: top;
+
+			img{
+				vertical-align: top;
+				border-radius: 4px;
+				width: 100%;
+			}
+		}
+
+		.review-text{
+			display: inline-block;
+			width: 82%;
+		}
+
+		&:last-of-type{
+			margin-bottom: 3em;
+		}
+	}
+}
+
+/**
+ * The CSS shown here will not be introduced in the Quickstart guide, but shows
+ * how you can use CSS to style your Element's container.
+ */
+.StripeElement {
+  background-color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  box-shadow: 0 1px 3px 0 #e6ebf1;
+  -webkit-transition: box-shadow 150ms ease;
+  transition: box-shadow 150ms ease;
+}
+
+.StripeElement--focus {
+  box-shadow: 0 1px 3px 0 #cfd7df;
+}
+
+.StripeElement--invalid {
+  border-color: #fa755a;
+}
+
+.StripeElement--webkit-autofill {
+  background-color: #fefde5 !important;
+}
+
+#payment-form{
+	button{
+		// display: inline-block;
+		width: 100%;
+		margin-top: 0.5em;
+		background: rgba(35,181,233,0.85);
+		color: #fff;
+		border: 2px solid rgba(35,181,233,0.85);
+		border-radius: 5px;
+		text-transform: uppercase;
+		padding: 0.4em 1.5em 0.5em;
+	    font-size: 1.2em;
+	    font-weight: 700;
+	    line-height: 1em;
+		-webkit-transition: background 0.5s ease-in-out;
+
+		&:hover{
+			text-decoration: none;
+			color: #fff;
+			@include grad-launch;
+		}
 	}
 }
