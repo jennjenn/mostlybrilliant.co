@@ -13,14 +13,20 @@ $token  = $_POST['stripeToken'];
 $email  = $_POST['stripeEmail'];
 $name   = $_POST['clientName'];
 
-// Charge the user's card:
+// Create a Customer:
+$customer = \Stripe\Customer::create(array(
+  "email" => $email,
+  "source" => $token,
+  "metadata" => array("customer_name" => $name),
+));
+
+// Charge the Customer instead of the card:
 $charge = \Stripe\Charge::create(array(
   "amount" => 20000,
   "currency" => "usd",
-  "description" => "60min Consult Call",
-  "source" => $token,
+  "customer" => $customer->id,
+  "metadata" => array("product" => "60-min Consult Call"),
 ));
-
 ?>
 
 <div class="container">
