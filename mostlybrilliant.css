@@ -190,6 +190,39 @@ footer {
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
 
+.alt-blue-section {
+  margin-top: 4em;
+  background: -moz-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(35, 181, 233, 0.85)), color-stop(100%, rgba(0, 167, 162, 0.85)));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
+  /* ie10+ */
+  background: linear-gradient(320deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23B5E9', endColorstr='#00A7A2',GradientType=0 );
+  /* ie6-9 */
+  color: #fff;
+  padding: 5em 0 4em; }
+  .alt-blue-section .button-full {
+    margin-top: 0; }
+  .alt-blue-section h3 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: 700; }
+  .alt-blue-section p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    font-weight: 300;
+    margin-bottom: 1em; }
+  .alt-blue-section a {
+    color: #fff;
+    font-weight: bold; }
+
 #landing #service-preview {
   margin: 4em auto; }
   #landing #service-preview h2 {
@@ -442,38 +475,6 @@ footer {
       /* ie10+ */
       border-image: linear-gradient(320deg, rgba(35, 181, 233, 0.85) 0%, #0087a7 100%) 10 stretch;
       /* w3c */ }
-#landing #about-section {
-  margin-top: 4em;
-  background: -moz-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
-  /* ff3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(35, 181, 233, 0.85)), color-stop(100%, rgba(0, 167, 162, 0.85)));
-  /* safari4+,chrome */
-  background: -webkit-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
-  /* safari5.1+,chrome10+ */
-  background: -o-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
-  /* opera 11.10+ */
-  background: -ms-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
-  /* ie10+ */
-  background: linear-gradient(320deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%);
-  /* w3c */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23B5E9', endColorstr='#00A7A2',GradientType=0 );
-  /* ie6-9 */
-  color: #fff;
-  padding: 5em 0 4em; }
-  #landing #about-section .button-full {
-    margin-top: 2em; }
-  #landing #about-section h3 {
-    margin-top: 0;
-    text-transform: uppercase;
-    font-weight: 700; }
-  #landing #about-section p {
-    font-size: 1.2em;
-    line-height: 1.5em;
-    font-weight: 300;
-    margin-bottom: 1em; }
-  #landing #about-section a {
-    color: #fff;
-    font-weight: bold; }
 @media (max-width: 768px) {
   #landing #hero {
     padding: 6em 0 4em; }

@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700,800,900');
+@import "variables";
+@import "global";
+@import "landing";
+@import "service-detail";
+@import "payment";
+
+.button-full{
+	text-align: center;
+	margin: 4em 0 1em;
+}
+
+.payment-button{
+	margin-bottom: 3em;
+	display: flex;
+}
+
+p.intro{
+	line-height: 1.5em;
+	color: #8c8c8c;
+	font-size: 1.01em;
+	margin-bottom: 1em;
+	max-width: 100%;
+	text-align: center;
+}
+
+.price{
+	font-size: 1.2em;
+
+	.small-cta{
+		margin-left: 0.5em;
+		font-size: 0.9em;
+	}
+}
+
+#about{
+	margin-top: 4em;
+	padding: 5em 0 4em;
+
+	.button-full{
+		margin-top: 2em;
+	}
+
+	#photo-jenn{
+		max-width: 100%;
+		border-radius: 20px;
+	}
+
+	h3{
+		margin-top: 0;
+		text-transform: uppercase;
+		font-weight: 700;
+	}
+
+	p{
+		font-size: 1.2em;
+    	line-height: 1.5em;
+    	font-weight: 300;
+    	margin-bottom: 1em;
+	}
+}
+
+#sign-up-section{
+	margin: 4em auto 5em;
+
+	#mc_embed_signup{
+		margin: 1em 0 0;
+		padding: 1em 1em;
+		border-radius: 2px;
+		font-family: 'Open Sans', sans-serif;
+		border: 1px solid $border-color;
+		background: rgba(0,0,0,0.03);
+		width: 100%;
+
+		p{
+			color: #333;
+		}
+
+		&.live-stream-form{
+			text-align: center;
+		}
+
+		.button{
+			color: rgba(35,181,233,0.85);
+			background: none;
+			border: 2px solid rgba(35,181,233,0.85);
+			border-radius: 5px;
+			text-transform: uppercase;
+			padding: 0.4em 1.5em 0.5em;
+		    font-size: 1.2em;
+		    font-weight: 700;
+		    line-height: 1em;
+			-webkit-transition: background 0.5s ease-in-out;
+
+			&:hover{
+				background: rgba(35,181,233,0.85);
+				color: #fff;
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+
+
+@media (max-width: 768px) {
+	body{
+		max-width: 100%;
+	}
+
+	.navbar-brand{
+		img{
+			height: 30px !important;
+		}
+	}
+
+	#service-options{
+		.service-img{
+			text-align: center;
+		}
+
+		.service-info{
+			border: 0;
+		}
+	}
+
+	.navbar-header, .navbar-collapse{
+		@include grad-full;
+	}
+
+	#about{
+		padding: 3em 1em;
+
+		#photo-jenn{
+			max-width: 50%;
+			display: block;
+			margin: 0 auto 2em;
+		}
+	}
+
+	#sign-up-section{
+		#mc_embed_signup{
+			.button{
+				width: 100% !important;
+			}
+		}
+	}
+}
