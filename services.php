@@ -75,7 +75,7 @@
 	    		</div>
 	    		<div class="col-xs-12 col-sm-7 service-info service-optimize">
 	    			<p class="intro">
-	    			My Optimize packages are for companies that already have a product out in the world and would like to optimize and grow  toward your goals. Since optimization can't happen in a day (wouldn't that be nice!), they are both designed to happen over a period of 1-3 months, continually tuning and revising your product based on real data.
+	    			My Optimize packages are for companies that already have a product out in the world and would like to optimize and grow  toward their goals. Since optimization can't happen in a day (wouldn't that be nice!), they are both designed to happen over a period of 1-3 months, continually tuning and revising your product based on real data.
 	    			</p>
 					<h3>Optimize Basics</h3>
 	    			<p>For products making slow, deliberate changes or those taking a more DIY approach.</p>
