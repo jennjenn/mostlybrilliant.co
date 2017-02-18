@@ -24,11 +24,11 @@
                 <div class="group">
                     <label>
                         <span>Full Name:</span>
-                        <input class="field" id="clientName" placeholder="Jane Doe" type="text" />
+                        <input class="field" id="clientName" name="clientName" placeholder="Jane Doe" type="text" />
                     </label>
                     <label>
                         <span>Email:</span>
-                        <input class="field" id="stripeEmail" placeholder="you@awesome.com" type="email" />
+                        <input class="field" id="stripeEmail" name="stripeEmail" placeholder="you@awesome.com" type="email" />
                     </label>
                 </div>
                 <div class="group">
