@@ -6,6 +6,7 @@ require_once('vendor/stripe/init.php');
 // See your keys here: https://dashboard.stripe.com/account/apikeys
 \Stripe\Stripe::setApiKey("REDACTED");
 
+print_r($_POST);
 // Token is created using Stripe.js or Checkout!
 // Get the payment token submitted by the form:
 $token  = $_POST['stripeToken'];
