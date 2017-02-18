@@ -45,5 +45,14 @@
     		</div>
 		</div>
 	</div>
+    <div class="alt-blue-section">
+        <div class="container">
+            <div class="row button-full">
+                <div class="col-xs-12">
+                    <a href="/services" class="button button-alt">&larr; More Mostly Brilliant Services</a>
+                </div>
+            </div>
+        </div>
+    </div>
 	
 <?php require_once("includes/footer.php"); ?>
