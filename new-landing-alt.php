@@ -21,34 +21,31 @@
 
  	<div id="service-preview" class="container">
     	<div class="row">
-    		<div class="col-xs-12 col-sm-10 col-sm-offset-1">
-            <p class="intro text-center">Mostly Brilliant's is a full-service consultancy, taking you from those first steps of identifying issues and opportunities, all the way through to pushing the code out into the world.</p>
-            <p class="intro">You can hop in at any point to make sure you're getting the right help for your company's stage of development:</p>
+    		<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+                <p class="intro text-center">Mostly Brilliant is a full-service consultancy, taking you from those first steps of identifying issues and opportunities, all the way through to pushing the code out into the world. Hop in at any point to make sure you're getting the right help for your company's development:</p>
     			<!-- <p class="intro text-center">Mostly Brilliant's services are broken down into two stages to make sure you're getting the right help for your company's development:</h4> -->
     		</div>
         </div>
         <div class="row">
-            <div class="full-width-steps col-xs-12 col-sm-8 col-sm-offset-2">
-                <h2><a href="/services#first-steps">First Steps</a></h2>
+            <div class="service-desc col-xs-12 col-sm-5 col-sm-offset-1">
+                <h2 class="grad-full"><a href="/services#first-steps">First Steps</a></h2>
                 <h3>Let's start at the very beginning</h3>
                 <p>A very good place to start. Designed for companies who need some quick injections of Product and UX expertise in order to identify what the possibilities are, where there's room for improvement, or just make sure you're headed down the right path.</p>
             </div>
-        </div>
-        <div class="row">
-    		<div id="launch" class="col-xs-12 col-sm-6">
-    			<h2><a href="/services#launch">Launch</a></h2>
+    		<div class="service-desc col-xs-12 col-sm-5">
+    			<h2 class="service-launch"><a href="/services#launch">Launch</a></h2>
     			<h3>Get your idea out into the world</h3>
     			<p>Designed for companies that are still in the ideation or pre-launch stages of development, I focus on helping you translate your big idea into a real world product, using on lean iterations to define an MVP you can put out into the hands of real users without going broke in the process.</p>
     		</div>
-    		<div id="optimize" class="col-xs-12 col-sm-6">
-    			<h2><a href="/services#optimize">Optimize</a></h2>
+        </div>
+        <div class="row">
+    		<div class="service-desc col-xs-12 col-sm-5 col-sm-offset-1">
+    			<h2 class="service-optimize"><a href="/services#optimize">Optimize</a></h2>
     			<h3>Fine-tune to reach your goals</h3>
     			<p>Once you have a product or site out in the world, the challenge becomes tuning it to meet your goals and your users' needs. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy.</p>
     		</div>
-    	</div>
-         <div class="row">
-            <div class="full-width-steps col-xs-12 col-sm-8 col-sm-offset-2">
-                <h2><a href="/services#last-steps">Tie it all together</a></h2>
+            <div class="service-desc col-xs-12 col-sm-5">
+                <h2 class="grad-full"><a href="/services#last-steps">Implement</a></h2>
                 <h3>Bringing your changes to life</h3>
                 <p>Not everyone has a huge staff of designers and developers with enough extra time to make product updates and address those small, but critical tweaks that add up to make a big difference. I'm here to help you implement the design and ux recommendations that come out of our collaboration.</p>
             </div>

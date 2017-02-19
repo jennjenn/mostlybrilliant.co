@@ -13,17 +13,7 @@
  	<div id="service-preview" class="container">
     	<div class="row">
     		<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-    			<p class="intro text-center">Mostly Brilliant's services are broken down into two separate stage to make sure you're getting the right help for your company's development:</p>
-    		</div>
-    		<div id="launch" class="col-xs-12 col-sm-6">
-    			<h2>Launch</h2>
-    			<h3>Get your idea out into the world</h3>
-    			<p>Designed for companies that are still in the ideation or pre-launch stages of development, I focus on helping you translate your big idea into a real world product, using on lean iterations to define an MVP you can put out into the hands of real users without going broke in the process.</p>
-    		</div>
-    		<div id="optimize" class="col-xs-12 col-sm-6">
-    			<h2>Optimize</h2>
-    			<h3>Fine-tune to reach your goals</h3>
-    			<p>Once you have a product or site out in the world, the challenge becomes tuning it to meet your goals and your users' needs. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy.</p>
+    			<p class="intro text-center">Mostly Brilliant's services are broken down into stages to make sure you're getting the right help for your company's development:</p>
     		</div>
     	</div>
     </div>
@@ -32,7 +22,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-					<h2>First Steps</h2>
+					<h2 class="grad-full">First Steps</h2>
 					<p class="intro">If you're just starting to think about how you might define or improve your product, I offer two introductory services to help you get the ball rolling and see where you might be able to focus your attention:</p>
 
 					<h3>60-Minute Consultation Call</h3>
@@ -54,11 +44,11 @@
 					<p class="intro">Ready to make the changes your product needs to reach its goals? Here's how Mostly Brilliant can help:</p>
 	    		</div>
 	    	</div>
-	    	<div class="row is-flex">
-	    		<div class="col-xs-12 col-sm-3 col-sm-offset-1 service-img service-launch">
-	    			<h2>Launch</h2>
+	    	<div id="launch" class="row is-flex">
+	    		<div class="col-xs-12 col-sm-3 col-sm-offset-1 service-img service-launch-info">
+	    			<h2 class="service-launch">Launch</h2>
 	    		</div>
-	    		<div class="col-xs-12 col-sm-7 service-info service-launch">
+	    		<div class="col-xs-12 col-sm-7 service-info service-launch-info">
 	    			<h3>MVP Strategy</h3>
 	    			<p>You have big ideas for a new app or site bouncing around your head but you don't know how to translate them into something you can put out into the world within your budget or timeframe. Over a 2-week sprint, we'll filter through your ideas and goals using my product definition framework. We'll then identify a strategy for validating your product within the scope of your resources so you can be sure you have something people will love before you go too far down the development path and users go "meh." That would suck.</p>
 	    			<p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!" target="_blank">Email me to get started</a></span></p>
@@ -69,11 +59,11 @@
 	    			<p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!" target="_blank">Email me to get started</a></span></p>
 	    		</div>
 	    	</div>
-			<div class="row is-flex">
-	    		<div class="col-xs-12 col-sm-3 col-sm-offset-1 service-img service-optimize">
+			<div id="optimize" class="row is-flex">
+	    		<div class="col-xs-12 col-sm-3 col-sm-offset-1 service-img service-optimize-info">
 	    			<h2>Optimize</h2>
 	    		</div>
-	    		<div class="col-xs-12 col-sm-7 service-info service-optimize">
+	    		<div class="col-xs-12 col-sm-7 service-info service-optimize-info">
 	    			<p class="intro">
 	    			My Optimize packages are for companies that already have a product out in the world and would like to optimize and grow  toward their goals. Since optimization can't happen in a day (wouldn't that be nice!), they are both designed to happen over a period of 1-3 months, continually tuning and revising your product based on real data.
 	    			</p>
@@ -100,6 +90,20 @@
 	    	</div>
 	    </div>
 	</div>
+	<div id="last-steps">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+					<h2 class="grad-full">Tie it all together</h2>
+					<p class="intro">Mostly Brilliant is a full-service consultancy. From identifying issues in your product to implementing the changes, I take pride in seeing you through from the first steps to getting that code out into the world.</p>
+
+					<h3>Design Tune-Up</h3>
+					<p>If you've already had a UX Audit (or just want to dive right in!), and need a developer to implement UX/UI improvements to your site, look no further. As your all-in-one UX expert and developer, I'll get to work on executing  front end design and usability updates that will make your site more user-friendly and optimized to reach your business goals.</p>
+					<p class="price">Starts at $750 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Design Tune-Up, Please!">Email me to get started</a> (Priority given to those who book other packages.)</span></p>
+				</div>
+			</div>
+		</div>
+	</div> 
 	<div id="sign-up-section">
 		<div class="container">
 			<div class="row">
