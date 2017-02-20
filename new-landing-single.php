@@ -1,19 +1,27 @@
 <?php require_once('includes/header.php'); ?>
-<div id="services">
-    <div id="hero" class="hero-short grad-full">
+<div id="landing">
+    <div id="hero" class="grad-full">
     	<div class="container">
     		<div class="row">
     			<div class="col-xs-12">
-    				<h1>Mostly Brilliant Services</h1>
+    				<h1>The Full-Service Product & UX Solution You've Been Looking For</h1>
     			</div>
     		</div>
     	</div>
     </div>
-
- 	<div class="container">
+    <div id="intro">
+    	<div class="container">
+    		<div class="row">
+	    		<div class="col-xs-12">
+    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring tech startup product development and design practices to small and early stage businesses to implement data-driven, customer-focused improvements that move your business forward.</p>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+    <div class="container">
         <div class="row">
             <div id="service-blurb" class="col-xs-12 col-sm-8 col-sm-offset-2">
-                <p class="intro text-center">I use my experience at companies like <a href="http://yahoo.com" target="_blank">Yahoo</a>, <a href="http://etsy.com" target="_blank">Etsy</a>, <a href="http://birchbox.com" target="_blank">Birchbox</a>, and <a href="/about">more</a> to take you from those first steps of identifying issues and opportunities in your mobile or web app, all the way through to pushing the code out into the world. Hop in at any point to get the right help for your company's development:</p>
+                <p class="intro text-center">I use my 10 years of experience at places like <a href="http://yahoo.com" target="_blank">Yahoo</a>, <a href="http://etsy.com" target="_blank">Etsy</a>, <a href="http://birchbox.com" target="_blank">Birchbox</a>, and <a href="/about">more</a> to take you from those first steps of identifying issues and opportunities in your mobile or web app, all the way through to pushing the code out into the world. Hop in at any point to get the right help for your company's development:</p>
             </div>
         </div>
     </div>
@@ -45,12 +53,12 @@
                     <p class="intro">Designed for companies that are still in the ideation or pre-launch stages of development, I help you translate your big idea into a real world product, using lean iterations to define an initial site or app you can put into the hands of real users.</p>
                     <h3>MVP Strategy</h3>
                     <p>You have big ideas for a new app or site bouncing around your head but you don't know how to translate them into something you can put out into the world within your budget or timeframe. Over a 2-week sprint, we'll filter through your ideas and goals using my product definition framework. We'll then identify a strategy for validating your product within the scope of your resources so you can be sure you have something people will love before you go too far down the development path and users go "meh." That would suck.</p>
-                    <p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!" target="_blank">Email me to get started</a></span></p>
+                    <p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!" target="_blank">Get started</a></span></p>
 
                     <h3>Prototype Buildout</h3>
                     <p>Being able to actually interact with your site or app, especially in the early concept stages, changes everything about your ability to identify issues, communicate flows, and even get user feedback as soon as possible. It makes your concept a tangible thing you can use as the foundation to build on, iterate on, and better understand, without spending a dime to write code that may never see the light of day.</p>
                     <p>I work with individuals and companies in the "ideas" stage of a product's development to break down the key concepts and flows into a usable wireframed prototype that you can load up in your browser or on your phone and see your idea come to life. </p>
-                    <p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!" target="_blank">Email me to get started</a></span></p>
+                    <p class="price">Starts at $2500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Prototype, Please!" target="_blank">Get started</a></span></p>
                 </div>
             </div>
             <div id="optimize" class="row is-flex">
@@ -93,20 +101,27 @@
 
                     <h3>Design Tune-Up</h3>
                     <p>If you've already had a UX Audit (or just want to dive right in!), and need a developer to implement UX/UI improvements to your site, look no further. As your all-in-one UX expert and developer, I'll get to work on executing  front end design and usability updates that will make your site more user-friendly and optimized to reach your business goals.</p>
-                    <p class="price">Starts at $750 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Design Tune-Up, Please!">Email me to get started</a> (Priority given to those who book other packages.)</span></p>
+                    <p class="price">Starts at $750 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=Design Tune-Up, Please!">Get started</a> (Priority given to those who book other packages.)</span></p>
                 </div>
             </div>
         </div>
     </div> 
-    <div class="alt-blue-section">
-        <div class="container">
-            <div class="row button-full">
-                <div class="col-xs-12">
-                    <a href="/about" class="button button-alt">About Mostly Brilliant &rarr;</a>
-                </div>
-            </div>
-        </div>
-    </div>
+   
+	<div id="about-section" class="alt-blue-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+					<h3>Mostly Brilliant is a proudly location-independent consultancy of one.</h3>
+					<p>Founded on the principle that good work comes from continually being inspired and educated by the world around you, I created Mostly Brilliant as a solo consultancy whose "office" is wherever I am. I believe being confined to an office makes it easy to forget who we're building our products for and that amazing products don't just come out of New York or Silicon Valley. Mostly Brilliant is designed to support your product's success, no matter where in the world you are.</p>
+				</div>
+			</div>
+			<div class="row button-full">
+    		<div class="col-xs-12">
+    			<a href="/about" class="button button-alt">Learn More &rarr;</a>
+    		</div>
+    	</div>
+		</div>
+	</div>
 	<div id="sign-up-section">
 		<div class="container">
 			<div class="row">

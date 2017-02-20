@@ -19,7 +19,7 @@
 
 	h1{
 		text-align: center;
-		font-size: 3.5em;
+		font-size: 3.45em;
 		max-width: 70%;
 		margin: 0 auto;
 	    line-height: 1.25em;
@@ -81,7 +81,6 @@
 }
 
 #intro{
-	//TODO: fix padding on mobile
 	// background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0));
 	background: rgba(0,0,0,0.02);
 	margin-bottom: 2em;
@@ -185,22 +184,6 @@
 			letter-spacing: 0.05em;
 			vertical-align: middle;
 			text-align: right;
-		}
-
-		&.service-launch{
-			h2{
-				@include grad-launch;
-				-webkit-background-clip: text;
-				-webkit-text-fill-color: transparent;	
-			}		
-		}
-
-		&.service-optimize{
-			h2{
-				@include grad-optimize;
-				-webkit-background-clip: text;
-				-webkit-text-fill-color: transparent;	
-			}
 		}
 	}
 

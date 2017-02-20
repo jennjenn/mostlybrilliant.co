@@ -1,0 +1,175 @@
+#landing, #services{
+
+//------ SINGLE PAGE VERSION ------//
+	#hero{
+		background: -moz-linear-gradient(130deg, rgba(0,167,162,0.85) 0%, rgba(35,181,233,0.85) 100%), url('img/hero-bg2.jpg'); /* ff3.6+ */
+		background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(35,181,233,0.85)), color-stop(100%, rgba(0,167,162,0.85))), url('img/hero-bg2.png'); /* safari4+,chrome */
+		background: -webkit-linear-gradient(130deg, rgba(0,167,162,0.85) 0%, rgba(35,181,233,0.85) 100%), url('img/hero-bg2.jpg'); /* safari5.1+,chrome10+ */
+		background: -o-linear-gradient(130deg, rgba(0,167,162,0.85) 0%, rgba(35,181,233,0.85) 100%), url('img/hero-bg2.jpg'); /* opera 11.10+ */
+		background: -ms-linear-gradient(130deg, rgba(0,167,162,0.85) 0%, rgba(35,181,233,0.85) 100%), url('img/hero-bg2.jpg'); /* ie10+ */
+		background: linear-gradient(320deg, rgba(0,167,162,0.85) 0%, rgba(35,181,233,0.85) 100%), url('img/hero-bg2.jpg'); /* w3c */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23B5E9', endColorstr='#00A7A2',GradientType=0 ); /* ie6-9 */
+
+		background-size: cover;
+		background-position: center center;
+		padding: 9em 0 8em;
+		color: #fff;
+		margin-top: -55px;
+
+		h1{
+			text-align: center;
+			font-size: 3.45em;
+			max-width: 70%;
+			margin: 0 auto;
+		    line-height: 1.25em;
+		    font-weight: 800;
+		    letter-spacing: 0.01em;
+		    color: #fff;
+		    -webkit-text-fill-color: #fff;
+		    text-transform: none;
+		}
+
+		&.hero-short{
+			padding: 5em 0 2.5em;
+		}
+	}
+}
+
+#services{
+	#service-blurb{
+		margin-top: 4em;
+		font-size: 1.2em;
+	}
+}
+
+#service-blurb{
+	margin-top: 2em;
+	
+	p.intro{
+		font-size: 1.1em;	
+	}
+}
+
+#service-options{
+	padding: 4em 0 0;
+
+	.service-img{
+		text-align: right;
+
+		h2{
+			text-align: right;
+		}
+
+		h3{
+			text-transform: uppercase;
+			font-size: 1.25em;
+			font-weight: 300;
+			letter-spacing: 0.035em;
+			margin-top: 0;
+		}
+	}
+	
+	.service-info{
+		padding: 0 2em;
+		border-left: 4px solid transparent;
+		border-image-slice: fill;
+		margin-bottom: 2em;
+
+		p.intro{
+			font-size: 1.1em;
+			margin-top: 1.35em;
+		}
+
+		p, li{
+			font-size: 1.1em;
+	    	line-height: 1.5em;
+	    	font-weight: 300;
+	    	margin-bottom: 1em;
+	    	text-align: left;
+		}
+
+		li{
+			margin-bottom: 0;
+		}
+
+		&.service-launch-info{
+			-moz-border-image: -moz-linear-gradient(130deg, rgba(0,206,200,0.85) 0%, rgba(0,167,162,1) 100%) 10 stretch; /* ff3.6+ */
+			-webkit-border-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(0,167,162,1)), color-stop(100%, rgba(0,206,200,0.85))) 10 stretch; /* safari4+,chrome */
+			-webkit-border-image: -webkit-linear-gradient(130deg, rgba(0,206,200,0.85) 0%, rgba(0,167,162,1) 100%) 10 stretch; /* safari5.1+,chrome10+ */
+			-o-border-image: -o-linear-gradient(130deg, rgba(0,206,200,0.85) 0%, rgba(0,167,162,1) 100%) 10 stretch; /* opera 11.10+ */
+			-ms-border-image: -ms-linear-gradient(130deg, rgba(0,206,200,0.85) 0%, rgba(0,167,162,1) 100%) 10 stretch; /* ie10+ */
+			border-image: linear-gradient(320deg, rgba(0,206,200,0.85) 0%, rgba(0,167,162,1) 100%) 10 stretch; /* w3c */
+		}
+
+		&.service-optimize-info{
+			-moz-border-image: -moz-linear-gradient(130deg, rgba(35,181,233,0.85) 0%, rgba(0,135,167,1) 100%) 10 stretch; /* ff3.6+ */
+			-webkit-border-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(0,135,167,1)), color-stop(100%, rgba(35,181,233,0.85))) 10 stretch; /* safari4+,chrome */
+			-webkit-border-image: -webkit-linear-gradient(130deg, rgba(35,181,233,0.85) 0%, rgba(0,135,167,1) 100%) 10 stretch; /* safari5.1+,chrome10+ */
+			-o-border-image: -o-linear-gradient(130deg, rgba(35,181,233,0.85) 0%, rgba(0,135,167,1) 100%) 10 stretch; /* opera 11.10+ */
+			-ms-border-image: -ms-linear-gradient(130deg, rgba(35,181,233,0.85) 0%, rgba(0,135,167,1) 100%) 10 stretch; /* ie10+ */
+			border-image: linear-gradient(320deg, rgba(35,181,233,0.85) 0%, rgba(0,135,167,1) 100%) 10 stretch; /* w3c */
+		}
+
+		&.service-start-info, &.service-dev-info{
+			@include grad-full-border;
+		}
+	}
+}
+
+#intro{
+	background: rgba(0,0,0,0.02);
+	margin-bottom: 2em;
+	border-top: 2px solid transparent;
+	@include grad-full-border-rev;
+
+	p{
+		padding: 3.5em 10em 3em;
+		font-size: 1.3em;
+    	line-height: 1.75em;
+    	text-align: center;
+	}
+}
+
+#about-section{
+	h3{
+		font-size: 2.5em;
+	}
+}
+
+@media (max-width: 768px) {
+	#hero{
+		padding: 6em 0 4em;
+
+		h1{
+			font-size: 2em;
+			max-width: 100%;
+		}
+	}
+
+	#intro{
+		border: 0;
+
+		p{
+			max-width: 100%;
+			padding: 3em 0.75em;
+			font-size: 1em;
+			line-height: 1.35em;
+		}
+	}
+
+	p.intro{
+		font-size: 1em;
+	}
+
+	#service-preview{
+
+		p{
+			max-width: 100%;
+			font-size: 1.05em;
+		}
+
+		h3{
+			font-size: 1.3em;
+		}
+	}
+}

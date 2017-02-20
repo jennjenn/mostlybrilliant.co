@@ -4,7 +4,7 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-xs-12">
-    				<h1>Customer-focused, data-driven Product and UX that maximizes your limited resources.</h1>
+    				<h1>The Full-Service Product & UX Solution You've Been Looking For</h1>
     			</div>
     		</div>
     	</div>
@@ -13,7 +13,7 @@
     	<div class="container">
     		<div class="row">
 	    		<div class="col-xs-12">
-    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas, focused on making the most of limited resources in small and early stage businesses by applying tech startup product development and design practices.</p>
+    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring tech startup product development and design practices to small and early stage businesses to implement data-driven, customer-focused improvements that move your business forward.</p>
     			</div>
     		</div>
     	</div>
@@ -23,14 +23,13 @@
     	<div class="row">
     		<div class="col-xs-12 col-sm-8 col-sm-offset-2">
                 <p class="intro text-center">Mostly Brilliant is a full-service consultancy, taking you from those first steps of identifying issues and opportunities, all the way through to pushing the code out into the world. Hop in at any point to make sure you're getting the right help for your company's development:</p>
-    			<!-- <p class="intro text-center">Mostly Brilliant's services are broken down into two stages to make sure you're getting the right help for your company's development:</h4> -->
     		</div>
         </div>
         <div class="row">
             <div class="service-desc col-xs-12 col-sm-5 col-sm-offset-1">
                 <h2 class="grad-full"><a href="/services#first-steps">First Steps</a></h2>
                 <h3>Let's start at the very beginning</h3>
-                <p>A very good place to start. Designed for companies who need some quick injections of Product and UX expertise in order to identify what the possibilities are, where there's room for improvement, or just make sure you're headed down the right path.</p>
+                <p>A very good place to start. Designed for companies that need some quick injections of Product and UX expertise in order to identify what the possibilities are, where there's room for improvement, or just make sure you're headed down the right path.</p>
             </div>
     		<div class="service-desc col-xs-12 col-sm-5">
     			<h2 class="service-launch"><a href="/services#launch">Launch</a></h2>

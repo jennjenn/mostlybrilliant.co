@@ -35,6 +35,7 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav navbar-right">
 	        <li><a href="/services">Services</a></li>
+	        <li><a href="/live-ux-audit">UX Audit Series</a></li>
 	        <li><a href="/about">About</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
