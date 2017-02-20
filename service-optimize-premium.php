@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row button-full">
                 <div class="col-xs-12">
-                    <a href="/services" class="button button-alt">&larr; More Mostly Brilliant Services</a>
+                    <a href="/services" class="button button-alt">&larr; More Services</a>
                 </div>
             </div>
         </div>

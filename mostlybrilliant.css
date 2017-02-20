@@ -580,9 +580,9 @@ footer {
   font-size: 2.5em; }
 
 @media (max-width: 768px) {
-  #hero {
+  #landing #hero, #services #hero {
     padding: 6em 0 4em; }
-    #hero h1 {
+    #landing #hero h1, #services #hero h1 {
       font-size: 2em;
       max-width: 100%; }
 
@@ -596,6 +596,14 @@ footer {
 
   p.intro {
     font-size: 1em; }
+
+  #service-options {
+    padding: 2em 0; }
+    #service-options .service-img h2 {
+      text-align: center; }
+
+  #about-section h3 {
+    font-size: 2em; }
 
   #service-preview p {
     max-width: 100%;
