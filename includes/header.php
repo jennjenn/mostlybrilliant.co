@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Jenn Vargas">
     <link rel="icon" href="favicon.ico">
-    <meta name="og:image" content="http://mostlybrilliant.co/ux-audit/diamobulb-small.png" />
+    <meta name="og:image" content="http://mostlybrilliant.co/img/square-logo.png" />
 
 	<title>Mostly Brilliant &mdash; Product & UX for Small and Early-Stage Businesses</title>
 
