@@ -169,3 +169,31 @@ footer{
 		font-weight: bold;
 	}
 }
+
+#promo-box{
+	margin-top: 1em;
+	margin-bottom: 2em;
+	padding: 1em 0 1.5em;
+	border-top: 2px solid transparent;
+  	border-bottom: 2px solid transparent;
+	@include grad-full-border;
+	text-align: center;
+	font-size: 0.9em;
+
+	.footnote{
+		float: right;
+    	margin-right: 1em;
+	}
+
+	h4{
+		font-family: "Muli", Helvetica, sans-serif;
+		font-weight: 700;
+		text-transform: uppercase;
+	}
+}
+
+#landing, #services{
+	#promo-box{
+		p{ font-size: 1.2em; }
+	}
+}

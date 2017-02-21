@@ -4,10 +4,11 @@
     	<div class="row">
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
     			<h1>UX Audit</h1>
+                <?php require_once('includes/promo.php'); ?>
     			<p>Congrats! Your site or app is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start.</p>
                 <p>I'll do an audit of your product with a focus on user experience and usability. You'll get a report of <strong>at least 15 prioritized opportunities for improvement and optimization</strong> to give your users the best experience possible, leading to increased conversion and retention.</p>
 
-                <p class="price">$1000 for up to 10 key views.</p>
+                <p class="price"><del>$1000</del> Relaunch promo! $700 for up to 10 key views.</p>
                 
     			<h3>How it works:</h3>
                 <p>With your key metrics in mind, I'll focus on flow, clarity, design, consistency, missing/useful functionality, overall usability, and more.</p> 

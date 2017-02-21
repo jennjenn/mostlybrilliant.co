@@ -17,6 +17,13 @@
             </div>
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+                <?php require_once('includes/promo.php'); ?>
+            </div>
+        </div>
+    </div>
     <div id="service-options">
         <div class="container">
             <div id="first-steps" class="row is-flex">

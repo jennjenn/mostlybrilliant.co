@@ -4,6 +4,7 @@
     	<div class="row">
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
     			<h1>Optimize Premium</h1>
+                <?php require_once('includes/promo.php'); ?>
     			<p>
     			You have an awesome product out in the world, but between keeping up with customer support, sales, building new features, and occasionally getting some sleep, you're just stretched too thin to focus on revising and optimizing your existing product. "Move fast and break things" sometimes means that the details can be left behind in pursuit of the bigger picture.</p>
     			<p>I'm here to make sure the little details aren't overlooked. After all, the little details add up to a big impact when you add them all up to produce a cleaner, focused, and optimized user experience.</p>
