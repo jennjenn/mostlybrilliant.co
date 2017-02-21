@@ -45,7 +45,7 @@
   </div>
   <div class="row">
     <div class="col-xs-12">
-		<h1>Improve Your Site's Conversion in 15 Minutes</h1>
+		<h1>Improve Your Site's Key Metrics in 15 Minutes</h1>
  
  		<div class="row">
  			<div class="col-xs-12 col-sm-4">
