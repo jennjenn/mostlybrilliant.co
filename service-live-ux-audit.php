@@ -46,7 +46,27 @@ require_once('includes/header.php'); ?>
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h2 class="text-center">I'll show you how I do it in 15 minutes</h2>
             <p>Hey! I'm Jenn. Every month, I do a live stream where I review up to 5 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
-
+        </div>
+    </div>
+    <div class="row first" id="sign-up-section">
+        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+            <!-- Begin MailChimp Signup Form -->
+            <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+            <div id="mc_embed_signup" class="live-stream-form col-xs-12 col-sm-10 col-sm-offset-1">
+                <p>Sign up to join the next session on Feb 28:</p>
+                <form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=be387c1a0a&SOURCE=live-audit" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cca0202faa1d268df2007d72_be387c1a0a" tabindex="-1" value=""></div>
+                    <div class="clear"><input type="submit" value="Join the next session" name="subscribe" id="mc-embedded-subscribe" class="button button-solid"></div>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h3 class="text-center">Here's a quick live-audit example:</h3>
             <p>This landing page had all the right information, but there was no hierarchy for the text and the important calls to action were in conflict. Here's a quick design audit of just the first view of the page:</p>
         </div>
@@ -88,7 +108,7 @@ require_once('includes/header.php'); ?>
                     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
                       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cca0202faa1d268df2007d72_be387c1a0a" tabindex="-1" value=""></div>
-                    <div class="clear"><input type="submit" value="Join the next session" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                    <div class="clear"><input type="submit" value="Join the next session" name="subscribe" id="mc-embedded-subscribe" class="button button-solid"></div>
                 </div>
                 </form>
             </div>

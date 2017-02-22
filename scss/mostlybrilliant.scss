@@ -36,7 +36,11 @@ p.intro{
 }
 
 #sign-up-section{
-	margin: 4em auto 5em;
+	margin: 3em auto 4em;
+
+	&.first{
+		margin-top: 1em;
+	}
 
 	#mc_embed_signup{
 		margin: 1em 0 0;

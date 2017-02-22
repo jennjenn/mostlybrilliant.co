@@ -108,15 +108,25 @@ footer{
 		color: #fff;
 		text-decoration: none;
 	}
-}
 
-.button-alt{
-	color: #fff;
-	border: 2px solid #fff;
+	&.button-alt{
+		color: #fff;
+		border: 2px solid #fff;
 
-	&:hover{
-		color: rgba(35,181,233,0.85) !important;
-		background: #fff;
+		&:hover{
+			color: rgba(35,181,233,0.85) !important;
+			background: #fff;
+		}
+	}
+
+	&.button-solid{
+		color: #fff !important;
+		border: 2px solid #fff;
+		background: rgba(35,181,233,0.85) !important;
+
+		&:hover{
+			background: rgba(35,181,233,1) !important;
+		}
 	}
 }
 
