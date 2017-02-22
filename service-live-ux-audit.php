@@ -82,7 +82,7 @@ require_once('includes/header.php'); ?>
             <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
             <div id="mc_embed_signup" class="live-stream-form col-xs-12 col-sm-10 col-sm-offset-1">
                 <h3 class="text-center">Ready to make your site awesome?</h3>
-                <p>Sign up to join the next session:</p>
+                <p>Sign up to join the next session on Feb 28:</p>
                 <form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=be387c1a0a&SOURCE=live-audit" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div id="mc_embed_signup_scroll">
                     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
