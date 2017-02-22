@@ -1,9 +1,7 @@
 <?php
-$title = "Live Website Audits &mdash; Mostly Brilliant, An Independent Product & UX Consultancy";
-$url = "http://mostlybrilliant.co/live-design-audit";
-$socialtitle = "LIVE UX & Design Audits. Every Month. Free. &mdash; Mostly Brilliant";
-$socialdesc = "Improve your site's conversion. Join this monthly UX series where I run down how to improve your site's design to meet your goals in an interactive livestream. Join in, ask questions, or submit your site. I'll be reviewing 3-5 sites per session (and it's free!)";
-$socialimg = "http://mostlybrilliant.co/img/live-audit.png";
+$title = "LIVE UX & Design Audits. Every Month. Free. &mdash; Mostly Brilliant";
+$desc = "Is your site falling behind on its key metrics? Join this monthly UX series where I run down how to improve your site's design to meet your goals in an interactive livestream. Join in, ask questions, or submit your site. I'll be reviewing 3-5 sites per session (and it's free!)";
+$img = "http://mostlybrilliant.co/img/audit-card.png";
 require_once('includes/header.php'); ?>
   
 <div id="service-detail-page" class="container live-ux-audit">
@@ -72,7 +70,7 @@ require_once('includes/header.php'); ?>
             <p>It boils down to a few basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
 
             <h2 class="text-center">I charge $1000 for an Audit. You can join FREE.</h2>
-            <p>My <a href="http://mostlybrilliant.co/ux-audit">UX audits</a> are comprehensive reports about how to improve your site's design and usability to reach your goals. In the live stream, I do an abbreviated version of this for FREE. Anyone can attend the live sessions and ask questions. If you're interested in improving your own site or if you're curious about design and UX, join us!</p>
+            <p>My <a href="/ux-audit">UX audits</a> are comprehensive reports about how to improve your site's design and usability to reach your goals. In the live stream, I do an abbreviated version of this for FREE. Anyone can attend the live sessions and ask questions. If you're interested in improving your own site or if you're curious about design and UX, join us!</p>
 
             <h3 class="text-center">Why give it away for free?</h3>
             <p>Because it's fun :) And because I want the internet to be a more beautiful and usable place. That starts with more people knowing how to do it for themselves!</p>

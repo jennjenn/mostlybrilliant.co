@@ -5,10 +5,10 @@ RewriteEngine on
 # Block source code viewing
 RewriteRule "(^|/)(CVS|\.svn|\.git)/" - [F]
 
-RewriteRule ^live-design-audit(/)*$ live-audit-landing.php [NC]
+RewriteRule ^live-design-audit(/)*$ /live-ux-audit [R=301,L]
 RewriteRule ^office-hours(/)*$ http://mostlybrilliant.co/live-design-audit [R=301,L]
 RewriteRule ^about(/)*$ about.php [NC]
-RewriteRule ^beta(/)*$ new-landing-single.php [NC]
+RewriteRule ^beta(/)*$ / [R=301,L]
 RewriteRule ^consult-call(/)*$ service-call.php [NC]
 RewriteRule ^live-ux-audit(/)*$ service-live-ux-audit.php [NC]
 RewriteRule ^optimize-basics(/)*$ service-optimize-basic.php [NC]
@@ -18,4 +18,4 @@ RewriteRule ^order-ux-audit(/)*$ charge-ux-audit.php [NC]
 RewriteRule ^services(/)*$ services.php [NC]
 RewriteRule ^success(/)*$ success.php [NC]
 RewriteRule ^thanks(/)*$ live-audit-sub-thanks.php [NC]
-RewriteRule ^ux-audit-beta(/)*$ service-ux-audit.php [NC]
+RewriteRule ^ux-audit(/)*$ service-ux-audit.php [NC]

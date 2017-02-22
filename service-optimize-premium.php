@@ -13,7 +13,7 @@
     			<h2>With Optimize Premium:</h2>
     			<p>I make it my mission to monitor, analyze, and refine your site through product and ux improvements. This includes:</p>
     			<ul>
-    				<li>A monthly <a href="/ux-audit-beta">UX Audit</a> (a $1000/mo value in itself!)</li>
+    				<li>A monthly <a href="/ux-audit">UX Audit</a> (a $1000/mo value in itself!)</li>
     				<li>An advanced analytics setup if you don't have one in place already</li>
     				<li>Bi-weekly analytics check-ins and adjustments</li>
     				<li>A 60-minute <a href="/consult-call">Consult Call</a> every month</li>

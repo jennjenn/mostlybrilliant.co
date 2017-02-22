@@ -40,7 +40,7 @@
 
                     <h3>UX Audit</h3>
                     <p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of your product with a focus on user experience and usability. From this, you'll get a report of at least 15 opportunities for improvement and optimization to give your users the best experience possible leading to increased conversion and retention. Most UX Audits are completed within 2-3 business days.</p>
-                    <p class="price">$1000 <span class="small-cta"><a href="/ux-audit-beta">Learn More & Book Instantly</a></span></p>
+                    <p class="price">$1000 <span class="small-cta"><a href="/ux-audit">Learn More & Book Instantly</a></span></p>
                 </div>
             </div>
             <div id="launch" class="row is-flex">
@@ -72,7 +72,7 @@
                     <h3>Optimize Basics</h3>
                     <p>For products making slow, deliberate changes or those taking a more DIY approach.</p>
                     <ul>
-                        <li>Monthly <a href="/ux-audit-beta">UX Audit</a></li>
+                        <li>Monthly <a href="/ux-audit">UX Audit</a></li>
                         <li>Basic analytics setup</li>
                         <li>A 60-minute <a href="/consult-call">Consult Call</a> every month</li>
                         <li>Unlimited Q&A during business hours in the Mostly Brilliant Slack</li>

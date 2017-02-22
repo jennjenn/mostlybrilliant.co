@@ -1,3 +1,8 @@
+<?php 
+if(empty($img)){ $img = "http://mostlybrilliant.co/img/square-logo.png"; }
+if(empty($title)){ $title = "Mostly Brilliant &mdash; The Full-Service Product & UX Solution You've Been Looking For"; }
+if(empty($desc)){ $desc = "Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring tech startup product development and design practices to small and early stage businesses to implement data-driven, customer-focused improvements that move your business forward."; }
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,9 +11,21 @@
     <meta name="description" content="">
     <meta name="author" content="Jenn Vargas">
     <link rel="icon" href="favicon.ico">
-    <meta name="og:image" content="http://mostlybrilliant.co/img/square-logo.png" />
 
-	<title>Mostly Brilliant &mdash; Product & UX for Small and Early-Stage Businesses</title>
+    <meta property="og:url" content="http://mostlybrilliant.co<?php echo $_SERVER['REQUEST_URI']; ?>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="<?php echo $title; ?>" />
+    <meta property="og:description" content="<?php echo $desc; ?>" />
+    <meta property="og:image" content="<?php echo $img; ?>" />
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@mstlybrilliant">
+	<meta name="twitter:creator" content="@jennjenn">
+	<meta name="twitter:title" content="<?php echo $title; ?>">
+	<meta name="twitter:description" content="<?php echo $desc; ?>">
+	<meta name="twitter:image" content="<?php echo $img; ?>">
+
+	<title><?php echo $title; ?></title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="mostlybrilliant.css">
@@ -28,7 +45,7 @@
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="/beta"><img src="img/logo-white.png" alt="Mostly Brilliant" /></a>
+	      <a class="navbar-brand" href="/"><img src="img/logo-white.png" alt="Mostly Brilliant" /></a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->

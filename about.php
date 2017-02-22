@@ -10,7 +10,7 @@
     			&#128075; &nbsp;  I'm Jenn Vargas. I have over 10 years of product development and UX experience ranging from large companies like <a href="http://yahoo.com">Yahoo</a> and <a href="http://etsylcom">Etsy</a> to brand new startups trying to establish themselves in the world. Now, I use that experience to help new and growing businesses (like yours!) define and refine your digital products.</p>
 				<p>I've been called a unicorn. And a swiss army knife. I'm proud of both. I live for creating order from chaos, especially when it means identifying the most effective path to an end goal using only a paperclip, a piece of gum, and a can-do attitude. Kidding. Sort of.</p>
 				<p>I come with product management, strategy, user experience, and development skills in my back pocket and assess all problems and possibilities through the various lenses that gives me. This means I'm able to evaluate your needs and understand the impact of strategy and decisions across the various disciplines it'll take to execute your vision.</p>
-				<p>I <em>love</em> getting into the details and can't help but treat your business as I do my own.</p>
+				<p>As your product and ux consultant, I <em>love</em> getting into the details and can't help but treat your business as I do my own.</p>
                 <p>Some of the awesome companies I've worked with:</p>
                 <ul>
                     <li><a href="http://classpass.com" target="_blank">ClassPass</a></li>
