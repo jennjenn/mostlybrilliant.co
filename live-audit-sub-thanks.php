@@ -9,7 +9,7 @@
     
     <p>Let's make sure you don't miss out on the next session! You should have a confirmation email in your inbox shortly. Be sure to click the confirmation link. This way, we can be sure I have your correct email and we're not accidentally ending up in your spam folder. That would suck!</p>
   
-    <p class="text-center"><img src="img/highfive.gif"></p>
+    <p class="text-center" id="gif"><img src="img/highfive.gif"></p>
     
 
     <h3 class="text-center">Be a pal and spread the word:</h3>  

@@ -507,6 +507,8 @@ footer {
     text-transform: none; }
   #landing #hero.hero-short, #services #hero.hero-short {
     padding: 5em 0 2.5em; }
+#landing #gif img, #services #gif img {
+  max-width: 100%; }
 
 #services #service-blurb {
   margin-top: 4em;
