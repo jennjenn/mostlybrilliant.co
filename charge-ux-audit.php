@@ -23,7 +23,7 @@ if(!empty($_POST)){
 
   // Charge the Customer instead of the card:
   $charge = \Stripe\Charge::create(array(
-    "amount" => 100000,
+    "amount" => 70000,
     "currency" => "usd",
     "customer" => $customer->id,
     "metadata" => array("product" => "UX Audit"),

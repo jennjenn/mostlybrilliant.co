@@ -62,7 +62,7 @@
                     <div id="card-element" class="field"></div>
                   </label>
                 </div>
-                <button type="submit">Order Your UX Audit</button>
+                <button type="submit">Order Your UX Audit for $700</button>
                 <div class="outcome">
                   <div id="card-errors"></div>
                 </div>
