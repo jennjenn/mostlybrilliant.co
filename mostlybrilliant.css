@@ -276,6 +276,8 @@ footer {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center; }
+  #service-detail-page h3 {
+    margin-top: 2em; }
   #service-detail-page p, #service-detail-page li {
     font-size: 1.175em;
     line-height: 1.65em;
