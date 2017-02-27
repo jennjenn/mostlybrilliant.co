@@ -20,6 +20,17 @@
                 <p>My UX Audits are focused on the overall experience of your product and the interactions your user has with it. You'll need either a live or working development site or an app that I can use as if I were a regular user.</p> 
                 <p>Your product can be at any stage: brand new or established and looking improve. The ideal case for a UX Audit is when you have a live product and are looking to improve or optimize a particular area of that product. Landing pages, E-Commerce flows, Onboarding, or anywhere else your product may have some points of friction.</p>
 
+                <h3>Why you need a UX Audit:</h3>
+                <p>We all get caught up in building the "new." Need a new feature or page? Throw it into the top nav and call it day. Need an alert box to remind your users of something urgent? Throw it onto the site header and call it a day. Introducing a new action or color or theme? Throw it in there and move on.</p>
+
+                <p>We get so caught up in moving forward and patching on new features, tools, copy, experiments, etc., that we often forget to take a step back and evaluate what it does the product as a whole.</p>
+
+                <p>We do so much patching that sometimes the overall message gets lost. Or worse: the user gets lost. The information architecture we spent so much time defining in the very beginning has come to resemble an mc escher work rather than a user-friendly, optimized experience that ushers our users from the very start to their end goal.</p>
+
+                <p>It's death by a thousand papercuts.</p>
+
+                <p>UX Audits are the perfect way to take that step back and evaluate what stands to be improved in the overall experience. In a few-hour deep-dive into your product experience, you can uncover all of those points of friction or confusion for your users, develop a plan to address them, and make it a priority to get the fixes out ASAP.</p>
+
                 <h3>What Others have said:</h3>
                 <div class="review">
                     <div class="review-img"><img src="img/feedbuddy.png" alt="John Casano, Feed-Buddy.io" /></div>
