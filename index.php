@@ -48,7 +48,7 @@
                     <p class="price">$200 <span class="small-cta"><a href="/consult-call">Learn More & Schedule Instantly</a></span></p>
 
                     <h3>UX Audit</h3>
-                    <p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of your product with a focus on user experience and usability. From this, you'll get a report of at least 15 opportunities for improvement and optimization to give your users the best experience possible leading to increased conversion and retention. Most UX Audits are completed within 2-3 business days.</p>
+                    <p>Congrats! Your product is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start. I'll do an audit of your product with a focus on user experience and usability. From this, you'll get a full report with opportunities for improvement and optimization to give your users the best experience possible leading to increased conversion and retention. Most UX Audits are completed within 2-3 business days.</p>
                     <p class="price">$1000 <span class="small-cta"><a href="/ux-audit">Learn More & Book Instantly</a></span></p>
                 </div>
             </div>
