@@ -9,7 +9,7 @@
     			<p>You know there are some quirks to your product: You're not hitting your key metrics, some things just feel "off", and worst of all, your users are complaining that your product is tough to use. You have a to-do list a mile long, but don't know the best place to start.</p>
                 <p>I'll audit your product with a focus on user experience and product optimization that identifies those quirks, prioritizes them against your goals, and sets your product on a path to greater success.</p>
                 <p><strong>I look for points of friction in your user experience and uncover opportunities to increase conversion, hone your messaging, strengthen your brand's voice, and eliminate visual and feature-creep-driven clutter, all while focusing your product toward your goals.</strong></p>
-                <p>You'll get a full report with opportunities for improvement and optimization including quick-wins and long-term strategy considerations to give your users the best experience possible, leading to increased conversion and retention, and ultimately, revenue.</p>
+                <p>You'll get a full report with opportunities for improvement and optimization including quick wins and long-term strategy considerations to give your users the best experience possible, leading to increased conversion and retention, and ultimately, revenue.</p>
 
                 
     			<h3>How it works:</h3>
