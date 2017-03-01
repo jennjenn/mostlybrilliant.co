@@ -45,7 +45,12 @@ require_once('includes/header.php'); ?>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h2 class="text-center">I'll show you how I do it in 15 minutes</h2>
-            <p>Hey! I'm Jenn. Every month, I do a live stream where I review up to 5 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
+            <p>Hey! I'm Jenn. Every month, I do a live stream where I review up to 3 submitted sites, adjusting the design in real time, showing you the process, talking through the "why," and answering your questions. This is a big part of what I do as a consultant and it's one of my favorite services because it's such an easy way to have a big impact on your site's performance. You'll see the site change before your eyes without using any fancy tools. In fact, you already have the tools you need.</p>
+        </div>
+    </div>
+    <div id="reviews" class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+            <p>"Just sat in on a UX review from Jenn Vargas. It was so helpful and will have a huge impact on our goals." <span class="attribution">&mdash; Laura Gluhanich, Head of Community @ <a href="http://everwise.com" target="_blank">Everwise</a></span></p>
         </div>
     </div>
     <div class="row first" id="sign-up-section">
@@ -67,13 +72,13 @@ require_once('includes/header.php'); ?>
     </div>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-            <h3 class="text-center">Here's last month's audit to give you an idea of what to expect:</h3>
+            <h2 class="text-center">Here's last month's audit to give you an idea of what to expect:</h2>
         </div>
     </div>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-            <div class="row previews">
-                <div class="text-center"><iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe></div>
+            <div class="row">
+                <div id="video" class="text-center"><iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe></div>
             </div>
         </div>
     </div>
@@ -82,7 +87,7 @@ require_once('includes/header.php'); ?>
             <p>It boils down to a few basic design principles. You can go a long way with the right mix of color, typography, positioning, and hierarchy. Even if you aren't a designer. Or even if "designing" intimidates the hell out of you. </p>
 
             <h2 class="text-center">I charge $1000 for an Audit. You can join FREE.</h2>
-            <p>My <a href="/ux-audit">UX audits</a> are comprehensive reports about how to improve your site's design and usability to reach your goals. In the live stream, I do an abbreviated version of this for FREE. Anyone can attend the live sessions and ask questions. If you're interested in improving your own site or if you're curious about design and UX, join us!</p>
+            <p>My <a href="/ux-audit">UX audits</a> are comprehensive reports about how to improve your site's design and usability to reach your goals. In the live stream, I do an abbreviated version of this for FREE. Anyone can attend the live sessions and ask questions. If you're interested in improving your own site or if you're curious about product, design, and UX, join us!</p>
 
             <h3 class="text-center">Why give it away for free?</h3>
             <p>Because it's fun :) And because I want the internet to be a more beautiful and usable place. That starts with more people knowing how to do it for themselves!</p>

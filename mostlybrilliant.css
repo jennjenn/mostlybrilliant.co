@@ -340,9 +340,10 @@ footer {
       font-weight: 700;
       font-style: italic; }
   #service-detail-page.live-ux-audit h1 {
-    margin-top: 1em; }
+    margin-top: 1.5em; }
   #service-detail-page.live-ux-audit h2 {
-    margin-top: 2em; }
+    margin-top: 2em;
+    font-weight: bold; }
     #service-detail-page.live-ux-audit h2.bigoletext {
       margin-top: 1em;
       font-size: 3.5em; }
@@ -351,8 +352,22 @@ footer {
   #service-detail-page.live-ux-audit h5 {
     font-weight: 700;
     text-align: center; }
+  #service-detail-page.live-ux-audit p {
+    font-size: 1.3em;
+    line-height: 1.45em; }
+  #service-detail-page.live-ux-audit #reviews {
+    font-size: 1.75em;
+    font-style: italic;
+    margin: 2em auto; }
+    #service-detail-page.live-ux-audit #reviews .attribution {
+      font-size: 0.6em;
+      font-weight: 400;
+      display: block;
+      text-align: right; }
+  #service-detail-page.live-ux-audit #video {
+    margin: 1em auto 2em; }
   #service-detail-page.live-ux-audit .previews {
-    margin-bottom: 1em; }
+    margin: 1em auto; }
     #service-detail-page.live-ux-audit .previews img {
       max-width: 100%; }
   #service-detail-page.live-ux-audit #sign-up-section {
