@@ -83,13 +83,15 @@
             </div>
         </div>
 	</div>
-    <div class="row">
-        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-            <h3>Guarantee</h3>
-            <p>I'm positive you're going to get incredible value out of your UX Audit, but if you're unsatisfied, you can request a full refund within 30 days.</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+                <h3>Guarantee</h3>
+                <p>I'm positive you're going to get incredible value out of your UX Audit, but if you're unsatisfied, you can request a full refund within 30 days.</p>
+            </div>
         </div>
     </div>
-  <div class="alt-blue-section">
+    <div class="alt-blue-section">
         <div class="container">
             <div class="row button-full">
                 <div class="col-xs-12">
