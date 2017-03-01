@@ -68,20 +68,12 @@ require_once('includes/header.php'); ?>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h3 class="text-center">Here's last month's audit to give you an idea of what to expect:</h3>
-            <iframe width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <div class="row previews">
-                <div class="col-xs-12 col-sm-6">
-                    <h5>BEFORE</h5>
-                    <img src="img/gwtg-before.png" alt="Audit Before" />
-                </div>
-                <div class="col-xs-12 col-sm-6">
-                    <h5>AFTER</h5>
-                    <img src="img/gwtg-after.png" alt="Audit After" />
-                </div>
+                <iframe width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
