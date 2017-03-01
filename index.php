@@ -76,7 +76,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7 service-info service-optimize-info">
                     <p class="intro">
-                    Once you have a product out in the world, the challenge becomes tuning it to meet your users' needs while benefitting the business. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy, continually tuning and revising based on real data.
+                    Once you have a product out in the world, the challenge becomes tuning it to meet your users' needs while still reaching the business' goals. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy, continually tuning and revising based on real data.
                     </p>
                     <h3>Optimize Basics</h3>
                     <p>For products making slower, deliberate changes or those taking a more DIY approach.</p>
