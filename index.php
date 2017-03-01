@@ -13,7 +13,7 @@
     	<div class="container">
     		<div class="row">
 	    		<div class="col-xs-12">
-    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring tech startup product development and design practices to small and early stage businesses to implement data-driven, customer-focused improvements that move your business forward.</p>
+    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring product and ux analysis to early-mid stage companies to implement data-driven, customer-focused product and user experience improvements that move your business forward.</p>
     			</div>
     		</div>
     	</div>
@@ -55,10 +55,10 @@
             <div id="launch" class="row is-flex">
                 <div class="col-xs-12 col-sm-3 col-sm-offset-1 service-img service-launch-info">
                     <h2 class="service-launch">Launch</h2>
-                    <h3>Get your idea out into the world</h3>
+                    <h3>Shape your idea into a product users love</h3>
                 </div>
                 <div class="col-xs-12 col-sm-7 service-info service-launch-info">
-                    <p class="intro">Designed for companies that are still in the ideation or pre-launch stages of development, I help you translate your big idea into a real world product, using lean iterations to define an initial site or app you can put into the hands of real users.</p>
+                    <p class="intro">Designed for companies that are still in the ideation or pre-launch stages of development, I help you translate your big idea into a real world product, focusing on the key problems to solve for your target audience and identifying a strategy and initial feature set to meet their needs.</p>
                     <h3>MVP Strategy</h3>
                     <p>You have big ideas for a new app or site bouncing around your head but you don't know how to translate them into something you can put out into the world within your budget or timeframe. Over a 2-week sprint, we'll filter through your ideas and goals using my product definition framework. We'll then identify a strategy for validating your product within the scope of your resources so you can be sure you have something people will love before you go too far down the development path and users go "meh." That would suck.</p>
                     <p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!" target="_blank">Email me to get started</a></span></p>
@@ -76,10 +76,10 @@
                 </div>
                 <div class="col-xs-12 col-sm-7 service-info service-optimize-info">
                     <p class="intro">
-                    Once you have a product out in the world, the challenge becomes tuning it to meet your goals and your users' needs. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy, continually tuning and revising based on real data.
+                    Once you have a product out in the world, the challenge becomes tuning it to meet your users' needs while benefitting the business. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy, continually tuning and revising based on real data.
                     </p>
                     <h3>Optimize Basics</h3>
-                    <p>For products making slow, deliberate changes or those taking a more DIY approach.</p>
+                    <p>For products making slower, deliberate changes or those taking a more DIY approach.</p>
                     <ul>
                         <li>Monthly <a href="/ux-audit">UX Audit</a></li>
                         <li>Basic analytics setup</li>
