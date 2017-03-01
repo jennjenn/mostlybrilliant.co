@@ -13,7 +13,7 @@
  	<div class="container">
         <div class="row">
             <div id="service-blurb" class="col-xs-12 col-sm-8 col-sm-offset-2">
-                <p class="intro text-center">I use my experience at companies like <a href="http://yahoo.com" target="_blank">Yahoo</a>, <a href="http://etsy.com" target="_blank">Etsy</a>, <a href="http://birchbox.com" target="_blank">Birchbox</a>, and <a href="/about">more</a> to take you from those first steps of identifying issues and opportunities in your mobile or web app, all the way through to pushing the code out into the world. Hop in at any point to get the right help for your company's development:</p>
+                <p class="intro text-center">Specializing in SaaS web and mobile apps, I use my 10 years of experience at places like <a href="http://yahoo.com" target="_blank">Yahoo</a>, <a href="http://flickr.com" target="_blank">Flickr</a>, <a href="http://etsy.com" target="_blank">Etsy</a>, <a href="http://birchbox.com" target="_blank">Birchbox</a>, and <a href="/about">more</a> to take you from those first steps of setting up the right tools to identify issues and opportunities, all the way through to pushing the code out into the world.</p>
             </div>
         </div>
     </div>
@@ -46,10 +46,10 @@
             <div id="launch" class="row is-flex">
                 <div class="col-xs-12 col-sm-3 col-sm-offset-1 service-img service-launch-info">
                     <h2 class="service-launch">Launch</h2>
-                    <h3>Get your idea out into the world</h3>
+                    <h3>Shape your idea into a product users love</h3>
                 </div>
                 <div class="col-xs-12 col-sm-7 service-info service-launch-info">
-                    <p class="intro">Designed for companies that are still in the ideation or pre-launch stages of development, I help you translate your big idea into a real world product, using lean iterations to define an initial site or app you can put into the hands of real users.</p>
+                    <p class="intro">Designed for companies that are still in the ideation or pre-launch stages of development, I help you translate your big idea into a real world product, focusing on the key problems to solve for your target audience and identifying a strategy and initial feature set to meet their needs.</p>
                     <h3>MVP Strategy</h3>
                     <p>You have big ideas for a new app or site bouncing around your head but you don't know how to translate them into something you can put out into the world within your budget or timeframe. Over a 2-week sprint, we'll filter through your ideas and goals using my product definition framework. We'll then identify a strategy for validating your product within the scope of your resources so you can be sure you have something people will love before you go too far down the development path and users go "meh." That would suck.</p>
                     <p class="price">$6500 <span class="small-cta"><a href="mailto:hi@mostlybrilliant.co?subject=MVP, Please!" target="_blank">Email me to get started</a></span></p>
