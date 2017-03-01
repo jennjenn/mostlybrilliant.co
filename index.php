@@ -13,7 +13,7 @@
     	<div class="container">
     		<div class="row">
 	    		<div class="col-xs-12">
-    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring product and ux analysis to early-mid stage companies to implement data-driven, customer-focused product and user experience improvements that move your business forward.</p>
+    				<p>Welcome to Mostly Brilliant, an independent consultancy from Jenn Vargas. I bring product and ux analysis to early- to mid-stage companies to implement data-driven, customer-focused product and user experience improvements that move your business forward.</p>
     			</div>
     		</div>
     	</div>
