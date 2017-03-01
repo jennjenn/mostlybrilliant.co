@@ -5,20 +5,22 @@
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
     			<h1>UX Audit</h1>
                 <?php // require_once('includes/promo.php'); ?>
-    			<p>Congrats! Your site or app is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start.</p>
-                <p>I'll do an audit of your product with a focus on user experience and usability. You'll get a report of <strong>at least 15 prioritized opportunities for improvement and optimization</strong> to give your users the best experience possible, leading to increased conversion and retention.</p>
+    			<p>You have a to-do list a mile long, but don't know the best place to start.</p>
+                <p>I'll do an audit of your product with a focus on user experience and usability.</p>
+                <p><strong>I look for points of friction in your user experience and uncover opportunities to increase conversion, hone your messaging, strengthen your brand's voice, and eliminate visual and feature-creep-driven clutter.</strong></p>
+                <p>You'll get a full report of opportunities for improvement and optimization including quick-wins and long-term strategy considerations to give your users the best experience possible, leading to increased conversion and retention, and ultimately, revenue.</p>
 
                 <p class="price">$1000</p>
                 
     			<h3>How it works:</h3>
                 <p>With your key metrics in mind, I'll focus on flow, clarity, design, consistency, missing/useful functionality, overall usability, and more.</p> 
-                <p>You'll receive your custom report with at least 15 opportunities for improvement and optimization including links to any resources I think may be helpful to you in further development.</p>
+                <p>You'll receive your full custom report with opportunities for improvement and optimization including links to any resources I think may be helpful to you in further development.</p>
                 <p>I'm brutally honest. I won't sugar-coat the issues I may find in your product, but I'll also provide you with tactical solutions to those issues.</p>
 
                 <h3>Who this is for:</h3>
                 <p>UX Audits can be done on <strong>desktop sites</strong>, <strong>mobile apps</strong> (iOS and Android), or <strong>tablet-focused products</strong> (iOS only).</p>
                 <p>My UX Audits are focused on the overall experience of your product and the interactions your user has with it. You'll need either a live or working development site or an app that I can use as if I were a regular user.</p> 
-                <p>Your product can be at any stage: brand new or established and looking improve. The ideal case for a UX Audit is when you have a live product and are looking to improve or optimize a particular area of that product. Landing pages, E-Commerce flows, Onboarding, or anywhere else your product may have some points of friction.</p>
+                <p>Your product can be at any stage: brand new or established and looking improve. The ideal case for a UX Audit is when you have a live product and are looking to improve or optimize a particular area of that product. Landing pages, E-Commerce flows, Onboarding, or anywhere else your users may be getting stuck.</p>
 
                 <h3>Why you need a UX Audit:</h3>
                 <p>We all get caught up in building the "new." Need a new feature or page? Throw it into the top nav and call it day. Need an alert box to remind your users of something urgent? Throw it onto the site header and call it a day. Introducing a new action or color or theme? Throw it in there and move on.</p>
@@ -81,6 +83,10 @@
             </div>
         </div>
 	</div>
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+        <h3>Guarantee</h3>
+        <p>I'm positive you're going to get incredible value out of your UX Audit, but if you're unsatisfied, you can request a full refund within 30 days.</p>
+    </div>
   <div class="alt-blue-section">
         <div class="container">
             <div class="row button-full">
