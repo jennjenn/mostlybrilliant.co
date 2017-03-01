@@ -8,7 +8,7 @@
     			<p>Congrats! Your site or app is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start.</p>
                 <p>I'll do an audit of your product with a focus on user experience and usability. You'll get a report of <strong>at least 15 prioritized opportunities for improvement and optimization</strong> to give your users the best experience possible, leading to increased conversion and retention.</p>
 
-                <p class="price"><del>$1000</del> Relaunch promo! $700 for up to 10 key views.</p>
+                <p class="price">$1000</p>
                 
     			<h3>How it works:</h3>
                 <p>With your key metrics in mind, I'll focus on flow, clarity, design, consistency, missing/useful functionality, overall usability, and more.</p> 
@@ -73,7 +73,7 @@
                     <div id="card-element" class="field"></div>
                   </label>
                 </div>
-                <button type="submit">Order Your UX Audit for $700</button>
+                <button type="submit">Order Your UX Audit &mdash; $1000</button>
                 <div class="outcome">
                   <div id="card-errors"></div>
                 </div>

@@ -29,7 +29,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                <?php require_once('includes/promo.php'); ?>
+                <?php // require_once('includes/promo.php'); ?>
             </div>
         </div>
     </div>

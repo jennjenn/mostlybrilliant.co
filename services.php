@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                <?php require_once('includes/promo.php'); ?>
+                <?php //require_once('includes/promo.php'); ?>
             </div>
         </div>
     </div>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7 service-info service-optimize-info">
                     <p class="intro">
-                    Once you have a product out in the world, the challenge becomes tuning it to meet your goals and your users' needs. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy, continually tuning and revising based on real data.
+                    Once you have a product out in the world, the challenge becomes tuning it to meet your users' needs while still reaching the business' goals. Using data-driven product and ux improvements, I help you refine your key flows, overall product experience, and ongoing product development strategy, continually tuning and revising based on real data.
                     </p>
                     <h3>Optimize Basics</h3>
                     <p>For products making slow, deliberate changes or those taking a more DIY approach.</p>
