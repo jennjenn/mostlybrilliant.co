@@ -71,7 +71,7 @@ require_once('includes/header.php'); ?>
         </div>
     </div>
     <div class="row">
-        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <div class="row previews">
                 <div class="text-center"><iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe></div>
             </div>
@@ -110,7 +110,7 @@ require_once('includes/header.php'); ?>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h3 class="text-center">Hey Jenn, Can you audit my site?</h3>  
-            <p>I review 3-5 sites in each session. Your site can be e-commerce sites, a web app, a small businesses, or a blog, to name a few. If you'd like your site to be included, sign up for the list and when I send out the request for volunteers, be sure to respond ASAP!</p>
+            <p>I review 3-5 sites in each session. Your site can be e-commerce, a web app, or a small businesses, to name a few. If you'd like your site to be included, sign up for the list and when I send out the request for volunteers, be sure to respond ASAP!</p>
         </div>	
     </div>
 </div>
