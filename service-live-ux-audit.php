@@ -71,9 +71,9 @@ require_once('includes/header.php'); ?>
         </div>
     </div>
     <div class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-3">
             <div class="row previews">
-                <iframe width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe>
+                <div class="text-center"><iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/_2PCdJDgpIM" frameborder="0" allowfullscreen></iframe></div>
             </div>
         </div>
     </div>
