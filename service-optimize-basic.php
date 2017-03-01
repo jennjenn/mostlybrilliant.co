@@ -3,7 +3,7 @@
     	<div class="row">
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
     			<h1>Optimize Basics</h1>
-                <?php require_once('includes/promo.php'); ?>
+                <?php //require_once('includes/promo.php'); ?>
     			<p>
     			For smaller business with specific areas of a product to focus on or those that prefer taking a bit more of a DIY approach, but would like to have access to product and ux expertise to guide your decision-making, the Basics package is designed for you.</p>
     			

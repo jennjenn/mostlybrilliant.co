@@ -4,7 +4,7 @@
     	<div class="row">
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
     			<h1>UX Audit</h1>
-                <?php require_once('includes/promo.php'); ?>
+                <?php // require_once('includes/promo.php'); ?>
     			<p>Congrats! Your site or app is out in the world! But what's next? You have a to-do list a mile long, but don't know the best place to start.</p>
                 <p>I'll do an audit of your product with a focus on user experience and usability. You'll get a report of <strong>at least 15 prioritized opportunities for improvement and optimization</strong> to give your users the best experience possible, leading to increased conversion and retention.</p>
 
