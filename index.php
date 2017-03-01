@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row">
             <div id="service-blurb" class="col-xs-12 col-sm-8 col-sm-offset-2">
-                <p class="intro text-center">Specializing in SaaS web and mobile apps, I use my 10 years of experience at places like <a href="http://yahoo.com" target="_blank">Yahoo</a>, <a href="http://flickr.com" target="_blank">Flickr</a>, <a href="http://etsy.com" target="_blank">Etsy</a>, <a href="http://birchbox.com" target="_blank">Birchbox</a>, and <a href="/about">more</a> to take you from those first steps of identifying issues and opportunities, all the way through to pushing the code out into the world.</p>
+                <p class="intro text-center">Specializing in SaaS web and mobile apps, I use my 10 years of experience at places like <a href="http://yahoo.com" target="_blank">Yahoo</a>, <a href="http://flickr.com" target="_blank">Flickr</a>, <a href="http://etsy.com" target="_blank">Etsy</a>, <a href="http://birchbox.com" target="_blank">Birchbox</a>, and <a href="/about">more</a> to take you from those first steps of setting up the right tools to identify issues and opportunities, all the way through to pushing the code out into the world.</p>
                 <p class="intro text-center">Hop in at any point to get the right help for your company's development:</p>
             </div>
         </div>
