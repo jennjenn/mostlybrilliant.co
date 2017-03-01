@@ -83,7 +83,7 @@
             </div>
         </div>
 	</div>
-    <div class="container">
+    <div id="service-detail-page" class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                 <h3>Guarantee</h3>
