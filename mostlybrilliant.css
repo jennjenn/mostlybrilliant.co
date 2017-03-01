@@ -275,13 +275,19 @@ footer {
     /* ie6-9 */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-align: center; }
+    text-align: center;
+    font-size: 3.5em;
+    margin-bottom: 0.5em; }
   #service-detail-page h3 {
-    margin-top: 2em; }
+    margin-top: 2em;
+    font-weight: bold;
+    font-size: 2em; }
   #service-detail-page p, #service-detail-page li {
-    font-size: 1.175em;
-    line-height: 1.65em;
+    font-size: 1.3em;
+    line-height: 1.45em;
     font-weight: 300; }
+  #service-detail-page p {
+    margin-bottom: 1em; }
   #service-detail-page .button-full {
     margin-top: 0;
     margin-bottom: 3em; }
@@ -306,10 +312,10 @@ footer {
         color: #fff;
         text-decoration: none; }
   #service-detail-page .review {
-    color: #898989;
     font-size: 1em;
     font-style: italic;
-    margin-top: 1em; }
+    margin-top: 1em;
+    margin-bottom: 2em; }
     #service-detail-page .review .attribution {
       color: #AEBBBD;
       display: block;
@@ -317,19 +323,28 @@ footer {
       text-align: right;
       margin-top: 0.5em; }
     #service-detail-page .review .review-img {
-      display: inline-block;
-      margin-right: 1em;
-      width: 12%;
-      vertical-align: top; }
+      margin: 0 0 1em 1em;
+      width: 20%;
+      float: right; }
       #service-detail-page .review .review-img img {
-        vertical-align: top;
         border-radius: 4px;
-        width: 100%; }
+        width: 100%;
+        float: right; }
     #service-detail-page .review .review-text {
-      display: inline-block;
-      width: 82%; }
+      display: inline-block; }
     #service-detail-page .review:last-of-type {
       margin-bottom: 3em; }
+  #service-detail-page .payment-button {
+    margin-bottom: 0; }
+  #service-detail-page #reviews {
+    font-size: 1.75em;
+    font-style: italic;
+    margin: 2em auto; }
+    #service-detail-page #reviews .attribution {
+      font-size: 0.6em;
+      font-weight: 400;
+      display: block;
+      text-align: right; }
   #service-detail-page.live-ux-audit h4, #service-detail-page.live-ux-audit h5 {
     font-family: 'Muli', Helvetica, sans-serif; }
   #service-detail-page.live-ux-audit #quotes {
@@ -355,15 +370,6 @@ footer {
   #service-detail-page.live-ux-audit p {
     font-size: 1.3em;
     line-height: 1.45em; }
-  #service-detail-page.live-ux-audit #reviews {
-    font-size: 1.75em;
-    font-style: italic;
-    margin: 2em auto; }
-    #service-detail-page.live-ux-audit #reviews .attribution {
-      font-size: 0.6em;
-      font-weight: 400;
-      display: block;
-      text-align: right; }
   #service-detail-page.live-ux-audit #video {
     margin: 1em auto 2em; }
   #service-detail-page.live-ux-audit .previews {
@@ -562,7 +568,7 @@ footer {
       font-size: 1.1em;
       margin-top: 1.35em; }
     #service-options .service-info p, #service-options .service-info li {
-      font-size: 1.1em;
+      font-size: 1.2em;
       line-height: 1.5em;
       font-weight: 300;
       margin-bottom: 1em;

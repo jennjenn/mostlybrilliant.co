@@ -5,7 +5,7 @@
     			<h1>Optimize Basics</h1>
                 <?php //require_once('includes/promo.php'); ?>
     			<p>
-    			For smaller business with specific areas of a product to focus on or those that prefer taking a bit more of a DIY approach, but would like to have access to product and ux expertise to guide your decision-making, the Basics package is designed for you.</p>
+    			For smaller business with specific areas of a product to focus on or those that prefer taking a more DIY approach, but would like to have access to product and ux expertise to guide your decision-making, the Basics package is designed for you.</p>
     			
     			<p>With the Optimize Basics package, I'll get you set up with a basic analytics installation if you don't have one already and perform a UX Audit. To tie it all together, we'll have a strategy call to dive into your analytics, audit, and potential next steps. On top of that, you'll have access to me in the Mostly Brilliant Slack for the entire month so you can ask any questions you may have. At the end of the month, you'll have an actionable list of improvements and strategy suggestions to take your product to the next level.</p>
 

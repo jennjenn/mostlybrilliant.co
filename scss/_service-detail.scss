@@ -8,16 +8,24 @@
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		text-align: center;
+		font-size: 3.5em;
+		margin-bottom: 0.5em;
 	}
 
 	h3{
 		margin-top: 2em;
+		font-weight: bold;
+		font-size: 2em;
 	}
 
 	p, li{
-		font-size: 1.175em;
-		line-height: 1.65em;
+		font-size: 1.3em;
+		line-height: 1.45em;
 		font-weight: 300;
+	}
+
+	p{
+		margin-bottom: 1em;
 	}
 
 	li{
@@ -56,10 +64,11 @@
 	}
 
 	.review{
-		color: #898989;
+		// color: #898989;
 		font-size: 1em;
 		font-style: italic;
 		margin-top: 1em;
+		margin-bottom: 2em;
 
 		.attribution{
 			color: #AEBBBD;
@@ -70,27 +79,48 @@
 		}
 
 		.review-img{
-			display: inline-block;
-			margin-right: 1em;
-			width: 12%;
-			vertical-align: top;
+			// display: inline-block;
+			margin: 0 0 1em 1em;
+			width: 20%;
+			float: right;
+			// vertical-align: top;
 
 			img{
-				vertical-align: top;
+				// vertical-align: top;
 				border-radius: 4px;
 				width: 100%;
+				float: right;
 			}
 		}
 
 		.review-text{
 			display: inline-block;
-			width: 82%;
+			// width: 82%;
 		}
 
 		&:last-of-type{
 			margin-bottom: 3em;
 		}
 	}
+
+	.payment-button{
+		margin-bottom: 0;
+	}
+
+
+	#reviews{
+		font-size: 1.75em;
+		font-style: italic;
+		margin: 2em auto;
+
+		.attribution{
+			font-size: 0.6em;
+		    font-weight: 400;
+		    display: block;
+		    text-align: right;
+		}
+	}
+
 
 	&.live-ux-audit{
 		h4, h5{
@@ -134,19 +164,6 @@
 		p{
 			font-size: 1.3em;
     		line-height: 1.45em;
-		}
-
-		#reviews{
-			font-size: 1.75em;
-			font-style: italic;
-			margin: 2em auto;
-
-			.attribution{
-				font-size: 0.6em;
-			    font-weight: 400;
-			    display: block;
-			    text-align: right;
-			}
 		}
 
 		#video{

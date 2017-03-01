@@ -3,7 +3,7 @@
  	<div id="service-detail-page" class="container">
     	<div class="row">
     		<div class="col-xs-12 col-sm-6 col-sm-offset-3">
-    			<h1>60-minute Consult Call</h1>
+    			<h1>60-min Consult Call</h1>
     			<p>Need to bounce your plans or ideas before you commit to a path? Need a quick review of a new element before you push it to production? Just want to pick my brain? Let's hop on a call or screen share and dive into your concerns. By the end of the hour, you'll have an actionable plan for moving forward. And hopefully fewer things to worry about.</p>
                 
     			<h3>How it works:</h3>
