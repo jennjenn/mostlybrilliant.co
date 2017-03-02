@@ -51,8 +51,9 @@
                 <p>UX Audits are the perfect way to take that step back and evaluate what stands to be improved in the overall experience. In a few-hour deep-dive into your product experience, you can uncover all of those points of friction or confusion for your users, develop a plan to address them, and make it a priority to get the fixes out ASAP.</p>
 
 
-                <h3>How much does this cost?</h3>
+                <h3>How much does this cost & what's included?</h3>
                 <p class="price">UX Audits are currently available for $1000.</p>
+                <p>Your report includes everything mentioned above. If you have a ton of pages in your product, I won't review them all. I'll select ~10 or so key screens that will likely cover the majority of your product and provide the most impact.</p>
                 
                 <h3>Get Started</h3>
                 <p>UX Audits can be booked instantly. After your payment is processed, you'll receive an email asking for a few bits of info and we're good to go. It's that simple.</p>
