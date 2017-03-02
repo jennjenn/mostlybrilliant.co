@@ -1,8 +1,8 @@
 #blog{
-	margin-top: 4em;
+	// margin-top: 4em;
 
 	#article-list{
-		margin-top: 2em;
+		margin-top: 4em;
 
 		.post-card{
 			.post-image{
@@ -21,5 +21,42 @@
 				}
 			}
 		}
+	}
+
+	#single-article{
+		margin-top: 8em;
+
+		h1{
+			font-weight: 700;
+			text-transform: uppercase;
+			@include grad-launch;
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			text-align: center;
+			font-size: 3.5em;
+			margin-bottom: 0.5em;
+			margin-top: 1em;
+		}
+
+		p{
+			font-size: 1.3em;
+			line-height: 1.475em;
+			margin-bottom: 1em;
+		}
+
+		#post-intro{
+			img{
+				width: 100%;
+			}
+		}
+
+		.video{
+			margin-top: 1em;
+			margin-bottom: 3em;
+		}
+	}
+
+	#post-comments{
+		margin-top: 4em;
 	}
 }

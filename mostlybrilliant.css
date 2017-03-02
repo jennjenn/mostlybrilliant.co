@@ -502,18 +502,52 @@ footer {
     font-size: 1.2em;
     margin-bottom: 2em; }
 
-#blog {
+#blog #article-list {
   margin-top: 4em; }
-  #blog #article-list {
-    margin-top: 2em; }
-    #blog #article-list .post-card .post-image img {
-      width: 100%; }
-    #blog #article-list .post-card .post-blurb h2 {
-      margin-top: 0; }
-    #blog #article-list .post-card .post-blurb p {
-      font-size: 1.2em; }
+  #blog #article-list .post-card .post-image img {
+    width: 100%; }
+  #blog #article-list .post-card .post-blurb h2 {
+    margin-top: 0; }
+  #blog #article-list .post-card .post-blurb p {
+    font-size: 1.2em; }
+#blog #single-article {
+  margin-top: 8em; }
+  #blog #single-article h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    background: -moz-linear-gradient(130deg, rgba(0, 206, 200, 0.85) 0%, #00a7a2 100%);
+    /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #00a7a2), color-stop(100%, rgba(0, 206, 200, 0.85)));
+    /* safari4+,chrome */
+    background: -webkit-linear-gradient(130deg, rgba(0, 206, 200, 0.85) 0%, #00a7a2 100%);
+    /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(130deg, rgba(0, 206, 200, 0.85) 0%, #00a7a2 100%);
+    /* opera 11.10+ */
+    background: -ms-linear-gradient(130deg, rgba(0, 206, 200, 0.85) 0%, #00a7a2 100%);
+    /* ie10+ */
+    background: linear-gradient(320deg, rgba(0, 206, 200, 0.85) 0%, #00a7a2 100%);
+    /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00a7a2', endColorstr='#00CEC8',GradientType=0 );
+    /* ie6-9 */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 3.5em;
+    margin-bottom: 0.5em;
+    margin-top: 1em; }
+  #blog #single-article p {
+    font-size: 1.3em;
+    line-height: 1.475em;
+    margin-bottom: 1em; }
+  #blog #single-article #post-intro img {
+    width: 100%; }
+  #blog #single-article .video {
+    margin-top: 1em;
+    margin-bottom: 3em; }
+#blog #post-comments {
+  margin-top: 4em; }
 
-#landing #hero, #services #hero {
+#landing #hero, #services #hero, #blog #hero {
   background: -moz-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%), url("img/hero-bg2.jpg");
   /* ff3.6+ */
   background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(35, 181, 233, 0.85)), color-stop(100%, rgba(0, 167, 162, 0.85))), url("img/hero-bg2.png");
@@ -533,7 +567,7 @@ footer {
   padding: 9em 0 8em;
   color: #fff;
   margin-top: -55px; }
-  #landing #hero h1, #services #hero h1 {
+  #landing #hero h1, #services #hero h1, #blog #hero h1 {
     text-align: center;
     font-size: 3.45em;
     max-width: 70%;
@@ -544,9 +578,9 @@ footer {
     color: #fff;
     -webkit-text-fill-color: #fff;
     text-transform: none; }
-  #landing #hero.hero-short, #services #hero.hero-short {
+  #landing #hero.hero-short, #services #hero.hero-short, #blog #hero.hero-short {
     padding: 5em 0 2.5em; }
-#landing #gif img, #services #gif img {
+#landing #gif img, #services #gif img, #blog #gif img {
   max-width: 100%; }
 
 #services #service-blurb {

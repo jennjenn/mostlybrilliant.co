@@ -5,12 +5,18 @@ require_once('lib/lib-blog.php');
 
 $posts = getRecentPosts();
 ?>
-  
- 	<div id="blog" class="blog-home">
+<div id="blog">
+    <div id="hero" class="hero-short grad-full">
         <div class="container">
-        	<div class="row">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1>Mostly Brilliant Articles</h1>
+                </div>
             </div>
+        </div>
+    </div>
 
+    
             <div id="article-list">
             <?php
             foreach($posts as $post){
