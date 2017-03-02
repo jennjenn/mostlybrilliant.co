@@ -10,7 +10,7 @@ if(empty($desc)){ $desc = "Welcome to Mostly Brilliant, an independent consultan
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Jenn Vargas">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="/favicon.ico">
 
     <meta property="og:url" content="http://mostlybrilliant.co<?php echo $_SERVER['REQUEST_URI']; ?>" />
     <meta property="og:type" content="website" />
