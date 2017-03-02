@@ -28,7 +28,7 @@ if(empty($desc)){ $desc = "Welcome to Mostly Brilliant, an independent consultan
 	<title><?php echo $title; ?></title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<link rel="stylesheet" href="mostlybrilliant.css">
+	<link rel="stylesheet" href="/mostlybrilliant.css">
         
 	<script src="//load.sumome.com/" data-sumo-site-id="ffe6b3682a8c324cf9337e2b604738516d180c4b91909a873914449d5b56835c" async="async"></script>
 
@@ -45,7 +45,7 @@ if(empty($desc)){ $desc = "Welcome to Mostly Brilliant, an independent consultan
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="/"><img src="img/logo-white.png" alt="Mostly Brilliant" /></a>
+	      <a class="navbar-brand" href="/"><img src="/img/logo-white.png" alt="Mostly Brilliant" /></a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->

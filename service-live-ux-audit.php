@@ -50,7 +50,7 @@ require_once('includes/header.php'); ?>
     </div>
     <div id="reviews" class="row">
         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-            <p>"Just sat in on a UX review from Jenn Vargas. It was so helpful and will have a huge impact on our goals." <span class="attribution">&mdash; Laura Gluhanich, Head of Community @ <a href="http://everwise.com" target="_blank">Everwise</a></span></p>
+            <p>"Just sat in on a UX review from Jenn Vargas. It was so helpful and will have a huge impact on our goals." <span class="attribution">&mdash; Laura Gluhanich, Head of Community @ <a href="http://geteverwise.com" target="_blank">Everwise</a></span></p>
         </div>
     </div>
     <div class="row first" id="sign-up-section">

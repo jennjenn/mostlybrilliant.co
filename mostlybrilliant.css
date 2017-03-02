@@ -502,6 +502,17 @@ footer {
     font-size: 1.2em;
     margin-bottom: 2em; }
 
+#blog {
+  margin-top: 4em; }
+  #blog #article-list {
+    margin-top: 2em; }
+    #blog #article-list .post-card .post-image img {
+      width: 100%; }
+    #blog #article-list .post-card .post-blurb h2 {
+      margin-top: 0; }
+    #blog #article-list .post-card .post-blurb p {
+      font-size: 1.2em; }
+
 #landing #hero, #services #hero {
   background: -moz-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%), url("img/hero-bg2.jpg");
   /* ff3.6+ */

@@ -1,0 +1,25 @@
+#blog{
+	margin-top: 4em;
+
+	#article-list{
+		margin-top: 2em;
+
+		.post-card{
+			.post-image{
+				img{
+					width: 100%;
+				}
+			}
+
+			.post-blurb{
+				h2{
+					margin-top: 0;
+				}
+
+				p{
+					font-size: 1.2em;
+				}
+			}
+		}
+	}
+}
