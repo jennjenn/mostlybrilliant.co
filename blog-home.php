@@ -1,5 +1,8 @@
 <?php
 require_once('connect.php');
+
+$canonical = "https://mostlybrilliant.co/articles";
+$title = "Articles &mdash; Mostly Brilliant &mdash; Product & UX Consulting";
 require_once('includes/header.php');
 require_once('lib/lib-blog.php');
 
