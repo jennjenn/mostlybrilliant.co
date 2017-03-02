@@ -18,9 +18,8 @@ $posts = getRecentPosts();
             </div>
         </div>
     </div>
-
-    
-            <div id="article-list">
+    <div class="container">
+        <div id="article-list">
             <?php
             foreach($posts as $post){
                 ?>
