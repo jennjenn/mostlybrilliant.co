@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Muli:300,400,600,700,700i,800|Hammersmith+One");
+@import url("https://fonts.googleapis.com/css?family=Muli:300,300i,400,600,700,700i,800|Hammersmith+One");
 body {
   font-family: 'Muli', Helvetica, sans-serif; }
 
@@ -371,7 +371,19 @@ footer {
     font-size: 1.3em;
     line-height: 1.45em; }
   #service-detail-page.live-ux-audit #video {
-    margin: 1em auto 2em; }
+    margin-top: 1em;
+    margin-bottom: 3em;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden; }
+    #service-detail-page.live-ux-audit #video iframe, #service-detail-page.live-ux-audit #video object, #service-detail-page.live-ux-audit #video embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%; }
   #service-detail-page.live-ux-audit .previews {
     margin: 1em auto; }
     #service-detail-page.live-ux-audit .previews img {
@@ -504,12 +516,15 @@ footer {
 
 #blog #article-list {
   margin-top: 4em; }
-  #blog #article-list .post-card .post-image img {
-    width: 100%; }
-  #blog #article-list .post-card .post-blurb h2 {
-    margin-top: 0; }
-  #blog #article-list .post-card .post-blurb p {
-    font-size: 1.2em; }
+  #blog #article-list .post-card {
+    margin-top: 2em;
+    margin-bottom: 2em; }
+    #blog #article-list .post-card .post-image img {
+      width: 100%; }
+    #blog #article-list .post-card .post-blurb h2 {
+      margin-top: 0; }
+    #blog #article-list .post-card .post-blurb p {
+      font-size: 1.2em; }
 #blog #single-article {
   margin-top: 8em; }
   #blog #single-article h1 {
@@ -535,10 +550,14 @@ footer {
     font-size: 3.5em;
     margin-bottom: 0.5em;
     margin-top: 1em; }
-  #blog #single-article p {
+  #blog #single-article h2 {
+    font-weight: bold;
+    font-size: 2.25em; }
+  #blog #single-article p, #blog #single-article li {
     font-size: 1.3em;
     line-height: 1.475em;
-    margin-bottom: 1em; }
+    margin-bottom: 1em;
+    font-weight: 300; }
   #blog #single-article #post-intro img {
     width: 100%; }
   #blog #single-article .video {
