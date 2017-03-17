@@ -196,7 +196,8 @@
 			margin-top: 0;
 		    margin-bottom: 3.5em;
 		    padding: 2em;
-  			border: 2px solid transparent;
+  			border-top: 2px solid transparent;
+  			border-bottom: 2px solid transparent;
 			@include grad-full-border;
 			
 			h2{
