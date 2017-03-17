@@ -48,21 +48,10 @@ Sometimes you can get away with using a drop shadow to increase the contrast bet
 <p>I accept up to 3 sites to review each month, and the only way to submit your site is if you're on the notification list. Find out more about the <a href="http://mostlybrilliant.co/live-ux-audit">Live UX Audit</a> or just sign up right now:</p>
 	</div>
 </div>
-<div class="row first" id="sign-up-section">
+<div class="row">
     <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        <!-- Begin MailChimp Signup Form -->
-        <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-        <div id="mc_embed_signup" class="live-stream-form col-xs-12 col-sm-10 col-sm-offset-1">
-            <p>Sign up to join the next session:</p>
-            <form action="//mostlybrilliant.us13.list-manage.com/subscribe/post?u=4cca0202faa1d268df2007d72&amp;id=be387c1a0a&SOURCE=live-audit" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <div id="mc_embed_signup_scroll">
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cca0202faa1d268df2007d72_be387c1a0a" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Join the next session" name="subscribe" id="mc-embedded-subscribe" class="button button-solid"></div>
-            </div>
-            </form>
-        </div>
+        <h2 class="text-center">Join the next audit:</h2>
+        <p><a href="http://mostlybrilliant.co/live-ux-audit">Learn more about Mostly Brilliant's FREE Live UX Audits here.</a> March's livestream is scheduled for 3/29, so be sure to sign up for updates and submit your site if you're interested in having an Audit of your own:</p>
     </div>
 </div>
 <div class="row">

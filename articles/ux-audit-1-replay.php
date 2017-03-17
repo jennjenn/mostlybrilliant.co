@@ -9,6 +9,7 @@
 </div>
 <div class="row">
 	<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        <h2 class="text-center">Join the next audit:</h2>
 		<p><a href="http://mostlybrilliant.co/live-ux-audit">Learn more about Mostly Brilliant's FREE Live UX Audits here.</a> March's livestream is scheduled for 3/29, so be sure to sign up for updates and submit your site if you're interested in having an Audit of your own:</p>
 	</div>
 </div>
