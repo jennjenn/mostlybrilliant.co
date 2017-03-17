@@ -57,7 +57,7 @@ require_once('includes/header.php'); ?>
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h2 class="text-center">Join the next session:</h2>
             <p class="text-center">
-                <button class="button button-solid" href="#sign-up-section">Register Now (FREE!)</button>
+                <a class="button button-solid" href="#sign-up-section">Register Now (FREE!)</a>
             </p>
         </div>
     </div>
