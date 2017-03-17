@@ -49,7 +49,7 @@ Sometimes you can get away with using a drop shadow to increase the contrast bet
 	</div>
 </div>
 <div class="row first" id="sign-up-section">
-    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
         <?php require_once('includes/eventbrite-reg-widget.php'); ?>
     </div>
 </div>
