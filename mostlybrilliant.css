@@ -390,9 +390,24 @@ footer {
       max-width: 100%; }
   #service-detail-page.live-ux-audit #sign-up-preview {
     margin-top: 0;
-    margin-bottom: 2em; }
+    margin-bottom: 3.5em;
+    padding: 2em;
+    border: 2px solid transparent;
+    -moz-border-image: -moz-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%) 10 stretch;
+    /* ff3.6+ */
+    -webkit-border-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(35, 181, 233, 0.85)), color-stop(100%, rgba(0, 167, 162, 0.85))) 10 stretch;
+    /* safari4+,chrome */
+    -webkit-border-image: -webkit-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%) 10 stretch;
+    /* safari5.1+,chrome10+ */
+    -o-border-image: -o-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%) 10 stretch;
+    /* opera 11.10+ */
+    -ms-border-image: -ms-linear-gradient(130deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%) 10 stretch;
+    /* ie10+ */
+    border-image: linear-gradient(320deg, rgba(0, 167, 162, 0.85) 0%, rgba(35, 181, 233, 0.85) 100%) 10 stretch;
+    /* w3c */ }
     #service-detail-page.live-ux-audit #sign-up-preview h2 {
-      margin-bottom: 1em; }
+      margin-bottom: 1em;
+      margin-top: 0; }
   #service-detail-page.live-ux-audit #sign-up-section {
     margin-bottom: 2em; }
     #service-detail-page.live-ux-audit #sign-up-section h3 {
