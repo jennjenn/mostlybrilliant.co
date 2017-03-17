@@ -388,6 +388,9 @@ footer {
     margin: 1em auto; }
     #service-detail-page.live-ux-audit .previews img {
       max-width: 100%; }
+  #service-detail-page.live-ux-audit #sign-up-preview h2 {
+    margin-top: 1.5em;
+    margin-bottom: 0.35em; }
   #service-detail-page.live-ux-audit #sign-up-section {
     margin-bottom: 2em; }
     #service-detail-page.live-ux-audit #sign-up-section h3 {
@@ -563,7 +566,7 @@ footer {
     width: 100%; }
   #blog #single-article .post-img-fit {
     max-width: 100%;
-    margin-bottom: 1.45em; }
+    margin-bottom: 1.475em; }
   #blog #single-article .video {
     margin-top: 1em;
     margin-bottom: 3em;
