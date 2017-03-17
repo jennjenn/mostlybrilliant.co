@@ -94,7 +94,7 @@ require_once('includes/header.php'); ?>
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h3 class="text-center">Hey Jenn, Can you audit my site?</h3>  
-            <p>I review up to 3 sites in each session. Your site can be e-commerce, a web app, or a small businesses, to name a few. If you'd like your site to be included, sign up for the list and when I send out the request for volunteers, be sure to respond ASAP!</p>
+            <p>I review up to 3 sites in each session. Your site can be e-commerce, a web app, or a small businesses, to name a few. If you'd like your site to be included, sign up for the event and when I send out the request for volunteers, be sure to respond ASAP!</p>
         </div>	
     </div>
 </div>
