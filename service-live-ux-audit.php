@@ -95,11 +95,11 @@ require_once('includes/header.php'); ?>
     </div>
     <div class="row" id="sign-up-section">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        <h2 class="text-center">Join the Next Audit</h2>
         <div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=32959690321&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
            
         </div>
     </div>
-    <!--End mc_embed_signup-->
     <div class="row">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h3 class="text-center">Hey Jenn, Can you audit my site?</h3>  
