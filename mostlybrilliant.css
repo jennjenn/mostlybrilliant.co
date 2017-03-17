@@ -388,9 +388,11 @@ footer {
     margin: 1em auto; }
     #service-detail-page.live-ux-audit .previews img {
       max-width: 100%; }
-  #service-detail-page.live-ux-audit #sign-up-preview h2 {
-    margin-top: 1.5em;
-    margin-bottom: 0.35em; }
+  #service-detail-page.live-ux-audit #sign-up-preview {
+    margin-top: 0;
+    margin-bottom: 2em; }
+    #service-detail-page.live-ux-audit #sign-up-preview h2 {
+      margin-bottom: 1em; }
   #service-detail-page.live-ux-audit #sign-up-section {
     margin-bottom: 2em; }
     #service-detail-page.live-ux-audit #sign-up-section h3 {
