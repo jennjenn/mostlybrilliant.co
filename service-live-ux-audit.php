@@ -53,7 +53,7 @@ require_once('includes/header.php'); ?>
             <p>"Just sat in on a UX review from Jenn Vargas. It was so helpful and will have a huge impact on our goals." <span class="attribution">&mdash; Laura Gluhanich, Head of Community @ <a href="http://geteverwise.com" target="_blank">Everwise</a></span></p>
         </div>
     </div>
-    <div class="row first" id="sign-up-section">
+    <div class="row" id="sign-up-preview">
         <div class="col-xs-12 col-sm-8 col-sm-offset-2">
             <h2 class="text-center">Join the next session:</h2>
             <p class="text-center">
