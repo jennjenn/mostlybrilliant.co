@@ -48,10 +48,9 @@ Sometimes you can get away with using a drop shadow to increase the contrast bet
 <p>I accept up to 3 sites to review each month, and the only way to submit your site is if you're on the notification list. Find out more about the <a href="http://mostlybrilliant.co/live-ux-audit">Live UX Audit</a> or just sign up right now:</p>
 	</div>
 </div>
-<div class="row">
-    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        <h2 class="text-center">Join the next audit:</h2>
-        <p><a href="http://mostlybrilliant.co/live-ux-audit">Learn more about Mostly Brilliant's FREE Live UX Audits here.</a> March's livestream is scheduled for 3/29, so be sure to sign up for updates and submit your site if you're interested in having an Audit of your own:</p>
+<div class="row first" id="sign-up-section">
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+        <?php require_once('includes/eventbrite-reg-widget.php'); ?>
     </div>
 </div>
 <div class="row">
