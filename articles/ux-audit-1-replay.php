@@ -9,7 +9,7 @@
 </div>
 <div class="row">
 	<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-		<p>I'll be trying a new format for March's livestream that should fix the chat and screen sharing quality issues, so be sure to sign up for updates and submit your site if you're interested in having an Audit of your own:</p>
+		<p><a href="http://mostlybrilliant.co/live-ux-audit">Learn more about Mostly Brilliant's FREE Live UX Audits here.</a> March's livestream is scheduled for 3/29, so be sure to sign up for updates and submit your site if you're interested in having an Audit of your own:</p>
 	</div>
 </div>
 <div class="row first" id="sign-up-section">
