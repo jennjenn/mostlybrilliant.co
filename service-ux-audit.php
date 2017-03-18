@@ -9,12 +9,12 @@
     			<p>You know there are some quirks to your product: You're not hitting your key metrics, some things just feel "off", and worst of all, your users are complaining that your product is tough to use. You have a to-do list a mile long, but don't know the best place to start.</p>
                 <p>I'll audit your product with a focus on user experience and product optimization that identifies those quirks, prioritizes them against your goals, and sets your product on a path to greater success.</p>
                 <p><strong>I look for points of friction in your user experience and uncover opportunities to increase conversion, hone your messaging, strengthen your brand's voice, and eliminate visual and feature-creep-driven clutter, all while focusing your product toward your goals.</strong></p>
-                <p>You'll get a full report with opportunities for improvement and optimization including quick wins and long-term strategy considerations to give your users the best experience possible, leading to increased conversion and retention, and ultimately, revenue.</p>
+                <p>You'll get a <strong>video screen recording</strong> of my feedback along with <strong>a full report with opportunities for improvement and optimization</strong> including quick wins and long-term strategy considerations to give your users the best experience possible, leading to increased conversion and retention, and ultimately, revenue.</p>
 
                 
     			<h3>How it works:</h3>
                 <p>With your key metrics in mind, I'll focus on flow, clarity, design, consistency, missing/useful functionality, overall usability, and more.</p> 
-                <p>You'll receive your full custom report with opportunities for improvement and optimization including, where relevant, screenshots, wireframes, and links to any resources I think may be helpful to you in further development.</p>
+                <p>You'll receive your video and full custom report with opportunities for improvement and optimization including, where relevant, screenshots, wireframes, and links to any resources I think may be helpful to you in further development.</p>
                 <p><strong>I'm brutally honest. I won't sugar-coat the issues I may find in your product, but I'll also provide you with tactical solutions to those issues.</strong></p>
 
                 <div id="reviews">
