@@ -256,7 +256,7 @@ footer {
   #about .review {
     font-size: 1em;
     font-style: italic;
-    margin-top: 1.5em;
+    margin-top: 3em;
     margin-bottom: 2em; }
     #about .review .attribution {
       color: #AEBBBD;
@@ -266,7 +266,7 @@ footer {
       margin-top: 0.5em; }
     #about .review .review-img {
       margin: 0 0 1em 1em;
-      width: 20%;
+      width: 15%;
       float: right; }
       #about .review .review-img img {
         border-radius: 4px;
