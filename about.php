@@ -11,18 +11,13 @@
 				<p>I've been called a unicorn. And a swiss army knife. I'm proud of both. I live for creating order from chaos, especially when it means identifying the most effective path to an end goal using only a paperclip, a piece of gum, and a can-do attitude. Kidding. Sort of.</p>
 				<p>I come with product management, strategy, user experience, and development skills in my back pocket and assess all problems and possibilities through the various lenses that gives me. This means <strong>I'm able to evaluate your needs and understand the impact of strategy and decisions across the various disciplines it'll take to execute your vision.</strong></p>
 
-                <div id="reviews">
-                    <div class="review">
-                        <div class="review-text">
-                            <div class="review-img"><img src="img/nicolesteeger.jpg" alt="Nicole Steeger, GigMasters" /></div>
-                            I worked with Jenn on a fast-paced project with a tight deadline. We knew we needed the perfect person to get it done correctly and on time. Jenn was that person. We couldn't be more pleased with the outcome and finishing a day early! Jenn has a clear and efficient process that would work well for any team. She is a great listener, excellent collaborator, and has the dual expertise of both UX and UI. She looks at everything from a product perspective which really translates to great designs. I would highly recommend Jenn and look forward to working with her again!
-                          <div class="attribution">- Nicole Steeger, Product Team Manager @ <a href="http://gigmasters.com" target="_blank">GigMasters</a></div>
-                        </div>
+                <div class="review">
+                    <div class="review-text">
+                        <div class="review-img"><img src="img/nicolesteeger.jpg" alt="Nicole Steeger, GigMasters" /></div>
+                        I worked with Jenn on a fast-paced project with a tight deadline. We knew we needed the perfect person to get it done correctly and on time. Jenn was that person. We couldn't be more pleased with the outcome and finishing a day early! Jenn has a clear and efficient process that would work well for any team. She is a great listener, excellent collaborator, and has the dual expertise of both UX and UI. She looks at everything from a product perspective which really translates to great designs. I would highly recommend Jenn and look forward to working with her again!
+                      <div class="attribution">- Nicole Steeger, Product Team Manager @ <a href="http://gigmasters.com" target="_blank">GigMasters</a></div>
                     </div>
                 </div>
-
-                
-
 
                 <p>Some of the awesome companies I've worked with:</p>
                 <ul>
