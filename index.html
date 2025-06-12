@@ -8,7 +8,18 @@
   <script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script><script src="https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.8.0-min.js.gz"></script><script>window.amplitude.add(window.sessionReplay.plugin({sampleRate: 1}));window.amplitude.init('c9827bde8d88e61e8cbfadfd35359a82', {"autocapture":{"elementInteractions":true}});</script>
    <style>
     :root {
-      --accent: #14B8A6; /* Your chosen accent color */
+      --accent: #14B8A6;
+      --accent-dark: #0D9488; /* Darker version for hover */
+    }
+
+    .btn-accent {
+      background-color: var(--accent);
+      color: white;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn-accent:hover {
+      background-color: var(--accent-dark);
     }
   </style>
 </head>
@@ -25,7 +36,7 @@
         Former Senior Director at Zendesk. Advisor. Builder. Coach. Let's bring clarity to your roadmap and momentum to your team.
       </p>
       <a href="https://calendly.com/mostlybrilliant/intro-convo" target="_blank"
-         class="inline-block bg-black text-white text-lg font-medium px-6 py-3 rounded hover:bg-gray-800 transition"  style="background-color: var(--accent);">
+         class="btn-accent inline-block bg-black text-white text-lg font-medium px-6 py-3 rounded hover:bg-gray-800 transition"  style="background-color: var(--accent);">
         Schedule a Call
       </a>
     </div>
